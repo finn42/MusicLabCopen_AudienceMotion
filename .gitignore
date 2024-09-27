@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+data/
+FR_translation.ipynb
+public_script/
+frf.py
