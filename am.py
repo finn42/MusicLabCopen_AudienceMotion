@@ -71,7 +71,7 @@ def butter_lowpass_filter(data, cutoff, fs, order):
     return y
 
 # https://stackoverflow.com/questions/11517986/indicating-the-statistically-significant-difference-in-bar-graph
-def barplot_annotate_brackets(num1, num2, data, center, height, yerr=None, dh=.05, barh=.05, fs=None, maxasterix=None):
+def barplot_annotate_brackets(num1, num2, data, center, height, yerr=None, dh=.05, barh=.05, fs=None, maxasterix=None,c="black"):
     """ 
     Annotate barplot with p-values.
 
@@ -124,9 +124,9 @@ def barplot_annotate_brackets(num1, num2, data, center, height, yerr=None, dh=.0
     bary = [y, y+barh, y+barh, y]
     mid = ((lx+rx)/2, y+barh)
 
-    plt.plot(barx, bary, c='black')
+    plt.plot(barx, bary, c=c)
 
-    kwargs = dict(ha='center', va='bottom')
+    kwargs = dict(ha='center', va='bottom',c=c)
     if fs is not None:
         kwargs['fontsize'] = fs
 
@@ -138,7 +138,7 @@ def sampVar(S):
     return s2
 
 # https://stackoverflow.com/questions/11517986/indicating-the-statistically-significant-difference-in-bar-graph
-def axbarplot_annotate_brackets(ax,num1, num2, data, center, height, yerr=None, dh=.05, barh=.05, fs=None, maxasterix=None):
+def axbarplot_annotate_brackets(ax,num1, num2, data, center, height, yerr=None, dh=.05, barh=.05, fs=None, maxasterix=None,c="black"):
     """ 
     Annotate barplot with p-values.
 
@@ -191,9 +191,9 @@ def axbarplot_annotate_brackets(ax,num1, num2, data, center, height, yerr=None, 
     bary = [y, y+barh, y+barh, y]
     mid = ((lx+rx)/2, y+barh)
 
-    ax.plot(barx, bary, c='black')
+    ax.plot(barx, bary, c=c)
 
-    kwargs = dict(ha='center', va='bottom')
+    kwargs = dict(ha='center', va='bottom',c=c)
     if fs is not None:
         kwargs['fontsize'] = fs
 
