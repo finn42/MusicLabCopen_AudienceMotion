@@ -1,0 +1,7 @@
+,A,B,mean(A),mean(B),diff,se,T,df,pval,eta-square
+0,Not aware of others' movement,Yes and they moved a normal amount,0.547,0.58962,-0.04262,0.02405,-1.77193,59.88743,0.29682,0.02841
+1,Not aware of others' movement,Yes and they moved less than usual,0.547,0.5415,0.00549,0.01955,0.28081,58.81061,0.99219,0.00057
+2,Not aware of others' movement,Yes and they moved more than usual,0.547,0.69016,-0.14316,0.02604,-5.49797,55.03232,1e-05,0.24113
+3,Yes and they moved a normal amount,Yes and they moved less than usual,0.58962,0.5415,0.04811,0.02855,1.68493,82.91032,0.33811,0.03026
+4,Yes and they moved a normal amount,Yes and they moved more than usual,0.58962,0.69016,-0.10054,0.03333,-3.01646,88.8889,0.01725,0.09028
+5,Yes and they moved less than usual,Yes and they moved more than usual,0.5415,0.69016,-0.14865,0.03025,-4.91482,77.61511,3e-05,0.21428

@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use or derived from this code, please cite it as below."
+authors:
+  - family-names: Upham
+    given-names: Finn
+    orcid: XXhttps://orcid.org/0000-0002-9948-2024
+title: "Audience Motion MusicLab Copenhagen"
+version: 1.0.0
+identifiers:
+  - type: dio
+    value: XX10.5281/zenodo.15458096
+date-released: 2025-06-07

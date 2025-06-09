@@ -1,0 +1,1772 @@
+,Participant_Code,Event_Type,Event,Event1,Correlations,Sections1
+0,ADQ003,Speech,Speech,Speech 1,0.0028651485807928896,Speech
+1,ADQ004,Speech,Speech,Speech 1,0.03405183764916145,Speech
+2,ADQ005,Speech,Speech,Speech 1,0.04565507057773303,Speech
+3,ADQ006,Speech,Speech,Speech 1,0.02016701171537952,Speech
+4,ADQ007,Speech,Speech,Speech 1,-0.003758047199506673,Speech
+5,ADQ008,Speech,Speech,Speech 1,0.009253418111412224,Speech
+6,ADQ009,Speech,Speech,Speech 1,-0.009806514007898918,Speech
+7,ADQ010,Speech,Speech,Speech 1,0.03490982920321355,Speech
+8,ADQ011,Speech,Speech,Speech 1,0.01627425027759023,Speech
+9,ADQ012,Speech,Speech,Speech 1,0.010746249930854232,Speech
+10,ADQ013,Speech,Speech,Speech 1,0.021043367496010934,Speech
+11,ADQ014,Speech,Speech,Speech 1,0.030973254650606078,Speech
+12,ADQ015,Speech,Speech,Speech 1,0.010037618960407621,Speech
+13,ADQ016,Speech,Speech,Speech 1,0.016891623877386488,Speech
+14,ADQ019,Speech,Speech,Speech 1,0.026207999678521356,Speech
+15,ADQ020,Speech,Speech,Speech 1,0.015587346062506193,Speech
+16,ADQ021,Speech,Speech,Speech 1,0.008580646000544909,Speech
+17,ADQ022,Speech,Speech,Speech 1,0.015919911753089638,Speech
+18,ADQ023,Speech,Speech,Speech 1,0.023937909019405998,Speech
+19,ADQ024,Speech,Speech,Speech 1,0.007596247862455965,Speech
+20,ADQ025,Speech,Speech,Speech 1,0.04696095058900314,Speech
+21,ADQ026,Speech,Speech,Speech 1,0.022176842320398134,Speech
+22,ADQ027,Speech,Speech,Speech 1,0.017805610774328625,Speech
+23,ADQ028,Speech,Speech,Speech 1,0.03307706819750855,Speech
+24,ADQ029,Speech,Speech,Speech 1,0.022969453408435217,Speech
+25,ADQ030,Speech,Speech,Speech 1,0.05506247644554045,Speech
+26,ADQ031,Speech,Speech,Speech 1,0.038860482508297337,Speech
+27,ADQ032,Speech,Speech,Speech 1,0.03261460316785535,Speech
+28,ADQ033,Speech,Speech,Speech 1,0.04648460136162198,Speech
+29,ADQ034,Speech,Speech,Speech 1,0.026827958637767768,Speech
+30,ADQ035,Speech,Speech,Speech 1,0.05101099771661006,Speech
+31,ADQ036,Speech,Speech,Speech 1,0.039247798821855646,Speech
+32,ADQ037,Speech,Speech,Speech 1,0.03052044953721638,Speech
+33,ADQ038,Speech,Speech,Speech 1,-0.002596168325405344,Speech
+34,ADQ039,Speech,Speech,Speech 1,-0.02228365382324779,Speech
+35,ADQ040,Speech,Speech,Speech 1,0.025189752602971852,Speech
+36,ADQ041,Speech,Speech,Speech 1,0.016948244861592722,Speech
+37,ADQ042,Speech,Speech,Speech 1,0.019888639887362076,Speech
+38,ADQ043,Speech,Speech,Speech 1,0.02640476896886415,Speech
+39,ADQ044,Speech,Speech,Speech 1,0.025010442424755572,Speech
+40,ADQ045,Speech,Speech,Speech 1,0.038502054993381565,Speech
+41,ADQ046,Speech,Speech,Speech 1,0.007410580983865843,Speech
+42,ADQ047,Speech,Speech,Speech 1,0.023576377788200986,Speech
+43,ADQ048,Speech,Speech,Speech 1,0.008138719482715506,Speech
+44,ADQ049,Speech,Speech,Speech 1,0.029723803912746267,Speech
+45,ADQ050,Speech,Speech,Speech 1,-0.03568054610134224,Speech
+46,ADQ051,Speech,Speech,Speech 1,0.014845652869749,Speech
+47,ADQ052,Speech,Speech,Speech 1,0.04484436224043146,Speech
+48,ADQ053,Speech,Speech,Speech 1,0.015409937410968966,Speech
+49,ADQ054,Speech,Speech,Speech 1,0.042128664774533336,Speech
+50,ADQ055,Speech,Speech,Speech 1,0.04087167475698283,Speech
+51,ADQ056,Speech,Speech,Speech 1,-0.000927878127827052,Speech
+52,ADQ057,Speech,Speech,Speech 1,0.01916552230507836,Speech
+53,ADQ059,Speech,Speech,Speech 1,-0.01527075124207199,Speech
+54,ADQ060,Speech,Speech,Speech 1,-0.01488006591088412,Speech
+55,ADQ061,Speech,Speech,Speech 1,0.01171319767550598,Speech
+56,ADQ062,Speech,Speech,Speech 1,-0.017135907512647583,Speech
+57,ADQ063,Speech,Speech,Speech 1,0.01933303514542237,Speech
+58,ADQ064,Speech,Speech,Speech 1,0.019253646749766515,Speech
+59,ADQ065,Speech,Speech,Speech 1,0.030645117557220675,Speech
+60,ADQ066,Speech,Speech,Speech 1,-0.0029333995353504312,Speech
+61,ADR067,Speech,Speech,Speech 1,0.006147041771906578,Speech
+62,ADR068,Speech,Speech,Speech 1,0.01772796229363994,Speech
+63,ADR069,Speech,Speech,Speech 1,0.05824096364731041,Speech
+64,ADR070,Speech,Speech,Speech 1,0.012606995544156384,Speech
+65,ADR071,Speech,Speech,Speech 1,0.05414789374343682,Speech
+66,AEQ077,Speech,Speech,Speech 1,-0.004617232558052381,Speech
+67,AEQ079,Speech,Speech,Speech 1,0.0006208235515654134,Speech
+68,AEQ080,Speech,Speech,Speech 1,0.030977009423673055,Speech
+69,AEQ081,Speech,Speech,Speech 1,0.021305471148486955,Speech
+70,AEQ082,Speech,Speech,Speech 1,0.042139355400204796,Speech
+71,AEQ083,Speech,Speech,Speech 1,0.030059037483111905,Speech
+72,AEQ084,Speech,Speech,Speech 1,0.008490795381739477,Speech
+73,AEQ085,Speech,Speech,Speech 1,0.035011316168039736,Speech
+74,AEQ087,Speech,Speech,Speech 1,0.01715293145444904,Speech
+75,AEQ088,Speech,Speech,Speech 1,-0.0023704626274334557,Speech
+76,AEQ089,Speech,Speech,Speech 1,0.010763688259462036,Speech
+77,AER090,Speech,Speech,Speech 1,-0.005816257153238427,Speech
+78,ADQ001,Speech,Speech,Speech 1,-0.008818172018805765,Speech
+79,ADQ003,Speech,Speech MC1,Speech 2,0.014949368297046801,Speech
+80,ADQ004,Speech,Speech MC1,Speech 2,0.015426567656948451,Speech
+81,ADQ005,Speech,Speech MC1,Speech 2,0.008794164957272933,Speech
+82,ADQ006,Speech,Speech MC1,Speech 2,0.010108621217996945,Speech
+83,ADQ007,Speech,Speech MC1,Speech 2,0.012072147246091366,Speech
+84,ADQ008,Speech,Speech MC1,Speech 2,0.0005381969068928364,Speech
+85,ADQ009,Speech,Speech MC1,Speech 2,-0.00047968283083205994,Speech
+86,ADQ010,Speech,Speech MC1,Speech 2,0.01446317932626061,Speech
+87,ADQ011,Speech,Speech MC1,Speech 2,0.0056890055136428475,Speech
+88,ADQ012,Speech,Speech MC1,Speech 2,0.007822770405637294,Speech
+89,ADQ013,Speech,Speech MC1,Speech 2,0.02083781645549465,Speech
+90,ADQ014,Speech,Speech MC1,Speech 2,0.00832378113247446,Speech
+91,ADQ015,Speech,Speech MC1,Speech 2,0.01677197242063373,Speech
+92,ADQ016,Speech,Speech MC1,Speech 2,0.009550293152972582,Speech
+93,ADQ019,Speech,Speech MC1,Speech 2,-0.0006430782954189725,Speech
+94,ADQ021,Speech,Speech MC1,Speech 2,0.0062228992501569816,Speech
+95,ADQ022,Speech,Speech MC1,Speech 2,0.004825072935908502,Speech
+96,ADQ023,Speech,Speech MC1,Speech 2,-0.011184247737115438,Speech
+97,ADQ024,Speech,Speech MC1,Speech 2,0.007580546069469323,Speech
+98,ADQ025,Speech,Speech MC1,Speech 2,0.023150575498966104,Speech
+99,ADQ026,Speech,Speech MC1,Speech 2,0.0037986507094115475,Speech
+100,ADQ027,Speech,Speech MC1,Speech 2,0.013956243952765176,Speech
+101,ADQ028,Speech,Speech MC1,Speech 2,0.011609131489844384,Speech
+102,ADQ029,Speech,Speech MC1,Speech 2,0.010230619198723343,Speech
+103,ADQ030,Speech,Speech MC1,Speech 2,0.016478652093168893,Speech
+104,ADQ031,Speech,Speech MC1,Speech 2,0.007773528508293892,Speech
+105,ADQ032,Speech,Speech MC1,Speech 2,0.015567524046282713,Speech
+106,ADQ033,Speech,Speech MC1,Speech 2,0.006246339774281304,Speech
+107,ADQ034,Speech,Speech MC1,Speech 2,0.008293644006184302,Speech
+108,ADQ035,Speech,Speech MC1,Speech 2,-0.0018053352872324084,Speech
+109,ADQ036,Speech,Speech MC1,Speech 2,0.007048654182651373,Speech
+110,ADQ037,Speech,Speech MC1,Speech 2,0.0032202607523567446,Speech
+111,ADQ038,Speech,Speech MC1,Speech 2,-0.004813864209322715,Speech
+112,ADQ040,Speech,Speech MC1,Speech 2,0.008549172257339267,Speech
+113,ADQ041,Speech,Speech MC1,Speech 2,0.009365864911613066,Speech
+114,ADQ042,Speech,Speech MC1,Speech 2,-0.0032255521920677324,Speech
+115,ADQ043,Speech,Speech MC1,Speech 2,0.012992478894560207,Speech
+116,ADQ044,Speech,Speech MC1,Speech 2,0.01573507191189713,Speech
+117,ADQ045,Speech,Speech MC1,Speech 2,0.012494736614552334,Speech
+118,ADQ046,Speech,Speech MC1,Speech 2,0.0012911070610146418,Speech
+119,ADQ047,Speech,Speech MC1,Speech 2,0.003467754721104439,Speech
+120,ADQ048,Speech,Speech MC1,Speech 2,-0.006206670553119674,Speech
+121,ADQ049,Speech,Speech MC1,Speech 2,0.008694865714184747,Speech
+122,ADQ050,Speech,Speech MC1,Speech 2,0.008054049320994511,Speech
+123,ADQ051,Speech,Speech MC1,Speech 2,0.01553051832985988,Speech
+124,ADQ052,Speech,Speech MC1,Speech 2,0.008929486216813196,Speech
+125,ADQ053,Speech,Speech MC1,Speech 2,0.010298369634586028,Speech
+126,ADQ054,Speech,Speech MC1,Speech 2,0.016423044673868986,Speech
+127,ADQ055,Speech,Speech MC1,Speech 2,0.010208869881716107,Speech
+128,ADQ056,Speech,Speech MC1,Speech 2,0.015796165112162173,Speech
+129,ADQ057,Speech,Speech MC1,Speech 2,0.01624734575188362,Speech
+130,ADQ058,Speech,Speech MC1,Speech 2,-0.0032068585601937294,Speech
+131,ADQ059,Speech,Speech MC1,Speech 2,-0.004379447033436795,Speech
+132,ADQ060,Speech,Speech MC1,Speech 2,0.009422785863066508,Speech
+133,ADQ061,Speech,Speech MC1,Speech 2,0.005713760680067575,Speech
+134,ADQ062,Speech,Speech MC1,Speech 2,0.0029784562937708475,Speech
+135,ADQ063,Speech,Speech MC1,Speech 2,0.013538513374084104,Speech
+136,ADQ064,Speech,Speech MC1,Speech 2,0.0045813602725803095,Speech
+137,ADQ065,Speech,Speech MC1,Speech 2,0.02307752912025026,Speech
+138,ADR067,Speech,Speech MC1,Speech 2,0.00969170876738807,Speech
+139,ADR068,Speech,Speech MC1,Speech 2,0.016045222881038986,Speech
+140,ADR069,Speech,Speech MC1,Speech 2,0.004424833545532111,Speech
+141,ADR070,Speech,Speech MC1,Speech 2,0.009236142136295322,Speech
+142,ADR071,Speech,Speech MC1,Speech 2,0.0023652753086010232,Speech
+143,AEQ077,Speech,Speech MC1,Speech 2,0.006781248564594936,Speech
+144,AEQ079,Speech,Speech MC1,Speech 2,0.008519894356862696,Speech
+145,AEQ080,Speech,Speech MC1,Speech 2,0.013293730257999792,Speech
+146,AEQ081,Speech,Speech MC1,Speech 2,-0.0014397369244335493,Speech
+147,AEQ082,Speech,Speech MC1,Speech 2,0.02004869866607912,Speech
+148,AEQ083,Speech,Speech MC1,Speech 2,0.021989993288004165,Speech
+149,AEQ084,Speech,Speech MC1,Speech 2,-0.005707370854822613,Speech
+150,AEQ085,Speech,Speech MC1,Speech 2,-0.004248780766861374,Speech
+151,AEQ087,Speech,Speech MC1,Speech 2,0.0055669471438721625,Speech
+152,AEQ088,Speech,Speech MC1,Speech 2,0.013617409472629042,Speech
+153,AEQ089,Speech,Speech MC1,Speech 2,0.01191751457151499,Speech
+154,AER090,Speech,Speech MC1,Speech 2,0.007919317495785696,Speech
+155,ADQ001,Speech,Speech MC1,Speech 2,0.012692487535241898,Speech
+156,ADQ003,Speech,Speech MC2,Speech 3,-0.021663733410753897,Speech
+157,ADQ004,Speech,Speech MC2,Speech 3,0.11243203936778304,Speech
+158,ADQ005,Speech,Speech MC2,Speech 3,0.038726208138945464,Speech
+159,ADQ006,Speech,Speech MC2,Speech 3,-0.031235849825433405,Speech
+160,ADQ007,Speech,Speech MC2,Speech 3,0.015574160051351716,Speech
+161,ADQ008,Speech,Speech MC2,Speech 3,0.08689590602984067,Speech
+162,ADQ009,Speech,Speech MC2,Speech 3,0.01889555324904256,Speech
+163,ADQ010,Speech,Speech MC2,Speech 3,0.08874677599656247,Speech
+164,ADQ011,Speech,Speech MC2,Speech 3,0.02471226528318197,Speech
+165,ADQ012,Speech,Speech MC2,Speech 3,0.05152811712972194,Speech
+166,ADQ013,Speech,Speech MC2,Speech 3,0.06057185779879292,Speech
+167,ADQ014,Speech,Speech MC2,Speech 3,0.01900710036974498,Speech
+168,ADQ015,Speech,Speech MC2,Speech 3,0.1205449449800733,Speech
+169,ADQ016,Speech,Speech MC2,Speech 3,0.12143027142433743,Speech
+170,ADQ019,Speech,Speech MC2,Speech 3,0.012209767612238725,Speech
+171,ADQ020,Speech,Speech MC2,Speech 3,0.06537212403446657,Speech
+172,ADQ021,Speech,Speech MC2,Speech 3,0.042977128329715904,Speech
+173,ADQ022,Speech,Speech MC2,Speech 3,0.11193656846984772,Speech
+174,ADQ023,Speech,Speech MC2,Speech 3,0.04571509255701561,Speech
+175,ADQ024,Speech,Speech MC2,Speech 3,-0.060426888395055334,Speech
+176,ADQ025,Speech,Speech MC2,Speech 3,0.06647928201056542,Speech
+177,ADQ026,Speech,Speech MC2,Speech 3,-0.01857196421819509,Speech
+178,ADQ027,Speech,Speech MC2,Speech 3,0.11740998411265376,Speech
+179,ADQ028,Speech,Speech MC2,Speech 3,-0.01157809414744008,Speech
+180,ADQ029,Speech,Speech MC2,Speech 3,0.06966783079240803,Speech
+181,ADQ030,Speech,Speech MC2,Speech 3,0.0783935341932986,Speech
+182,ADQ031,Speech,Speech MC2,Speech 3,0.06981048697186557,Speech
+183,ADQ032,Speech,Speech MC2,Speech 3,0.08374574988106422,Speech
+184,ADQ033,Speech,Speech MC2,Speech 3,0.09067438051987234,Speech
+185,ADQ034,Speech,Speech MC2,Speech 3,-0.0003037932868559574,Speech
+186,ADQ035,Speech,Speech MC2,Speech 3,0.022903171879262017,Speech
+187,ADQ036,Speech,Speech MC2,Speech 3,0.015640408637998683,Speech
+188,ADQ037,Speech,Speech MC2,Speech 3,0.05762560700720119,Speech
+189,ADQ038,Speech,Speech MC2,Speech 3,0.06992263637202302,Speech
+190,ADQ040,Speech,Speech MC2,Speech 3,0.0013438530106515965,Speech
+191,ADQ041,Speech,Speech MC2,Speech 3,0.07535752558890013,Speech
+192,ADQ042,Speech,Speech MC2,Speech 3,0.027927024268485874,Speech
+193,ADQ043,Speech,Speech MC2,Speech 3,-0.018348770706537475,Speech
+194,ADQ044,Speech,Speech MC2,Speech 3,0.026574979466585442,Speech
+195,ADQ045,Speech,Speech MC2,Speech 3,0.06065393408004508,Speech
+196,ADQ046,Speech,Speech MC2,Speech 3,0.08179976319839966,Speech
+197,ADQ047,Speech,Speech MC2,Speech 3,0.01779401031394547,Speech
+198,ADQ048,Speech,Speech MC2,Speech 3,0.04062860086434287,Speech
+199,ADQ049,Speech,Speech MC2,Speech 3,0.017885339163935716,Speech
+200,ADQ050,Speech,Speech MC2,Speech 3,-0.001809269695579207,Speech
+201,ADQ051,Speech,Speech MC2,Speech 3,0.03817892121965517,Speech
+202,ADQ052,Speech,Speech MC2,Speech 3,0.02070900442903958,Speech
+203,ADQ053,Speech,Speech MC2,Speech 3,0.04503857012572032,Speech
+204,ADQ054,Speech,Speech MC2,Speech 3,0.017835522348283433,Speech
+205,ADQ055,Speech,Speech MC2,Speech 3,0.1015744686769043,Speech
+206,ADQ056,Speech,Speech MC2,Speech 3,0.06291414733299128,Speech
+207,ADQ057,Speech,Speech MC2,Speech 3,0.05629975648410917,Speech
+208,ADQ058,Speech,Speech MC2,Speech 3,0.038901138287754156,Speech
+209,ADQ059,Speech,Speech MC2,Speech 3,0.07400501321296798,Speech
+210,ADQ060,Speech,Speech MC2,Speech 3,0.08186884727152428,Speech
+211,ADQ061,Speech,Speech MC2,Speech 3,0.1406651980676377,Speech
+212,ADQ062,Speech,Speech MC2,Speech 3,0.08367280590108878,Speech
+213,ADQ063,Speech,Speech MC2,Speech 3,0.0860352853153243,Speech
+214,ADQ064,Speech,Speech MC2,Speech 3,0.01285100787894325,Speech
+215,ADQ065,Speech,Speech MC2,Speech 3,0.01808718285817802,Speech
+216,ADR067,Speech,Speech MC2,Speech 3,-0.02259422174722883,Speech
+217,ADR068,Speech,Speech MC2,Speech 3,0.07063972473603121,Speech
+218,ADR069,Speech,Speech MC2,Speech 3,0.03563774546674654,Speech
+219,ADR070,Speech,Speech MC2,Speech 3,0.011985155131504556,Speech
+220,ADR071,Speech,Speech MC2,Speech 3,0.07073340971521565,Speech
+221,AEQ077,Speech,Speech MC2,Speech 3,0.016854358664324106,Speech
+222,AEQ078,Speech,Speech MC2,Speech 3,0.01563564607594426,Speech
+223,AEQ079,Speech,Speech MC2,Speech 3,-0.008824847739403277,Speech
+224,AEQ080,Speech,Speech MC2,Speech 3,0.044133567095359365,Speech
+225,AEQ081,Speech,Speech MC2,Speech 3,0.060273877029353065,Speech
+226,AEQ082,Speech,Speech MC2,Speech 3,0.06953647798328182,Speech
+227,AEQ084,Speech,Speech MC2,Speech 3,0.0010038046806151186,Speech
+228,AEQ085,Speech,Speech MC2,Speech 3,-0.0013927205405995962,Speech
+229,AEQ087,Speech,Speech MC2,Speech 3,0.09222833660359636,Speech
+230,AEQ088,Speech,Speech MC2,Speech 3,0.06740344564142957,Speech
+231,AEQ089,Speech,Speech MC2,Speech 3,0.04209650826037155,Speech
+232,AER090,Speech,Speech MC2,Speech 3,0.016652409668978907,Speech
+233,ADQ001,Speech,Speech MC2,Speech 3,0.08142878840887681,Speech
+234,ADQ003,Music,Beethoven 1,Beeth. 1,-0.0011427126713938912,Beethoven
+235,ADQ004,Music,Beethoven 1,Beeth. 1,0.0014236650261181072,Beethoven
+236,ADQ005,Music,Beethoven 1,Beeth. 1,-0.0012543990542088178,Beethoven
+237,ADQ006,Music,Beethoven 1,Beeth. 1,0.006070492302454918,Beethoven
+238,ADQ007,Music,Beethoven 1,Beeth. 1,0.0011697023779981156,Beethoven
+239,ADQ008,Music,Beethoven 1,Beeth. 1,0.0003137527191584577,Beethoven
+240,ADQ009,Music,Beethoven 1,Beeth. 1,0.0031922011819058593,Beethoven
+241,ADQ010,Music,Beethoven 1,Beeth. 1,-1.3251803778590128e-05,Beethoven
+242,ADQ011,Music,Beethoven 1,Beeth. 1,0.004528076553206874,Beethoven
+243,ADQ012,Music,Beethoven 1,Beeth. 1,-0.002997720047574273,Beethoven
+244,ADQ013,Music,Beethoven 1,Beeth. 1,0.007359490178120686,Beethoven
+245,ADQ014,Music,Beethoven 1,Beeth. 1,0.006398308747825774,Beethoven
+246,ADQ015,Music,Beethoven 1,Beeth. 1,0.004082815228201636,Beethoven
+247,ADQ016,Music,Beethoven 1,Beeth. 1,0.007330616391969559,Beethoven
+248,ADQ018,Music,Beethoven 1,Beeth. 1,0.0039050941174026154,Beethoven
+249,ADQ019,Music,Beethoven 1,Beeth. 1,0.0006593846303666595,Beethoven
+250,ADQ020,Music,Beethoven 1,Beeth. 1,-0.004025747869821546,Beethoven
+251,ADQ021,Music,Beethoven 1,Beeth. 1,0.015889573051938565,Beethoven
+252,ADQ022,Music,Beethoven 1,Beeth. 1,0.0031120776415362954,Beethoven
+253,ADQ023,Music,Beethoven 1,Beeth. 1,0.005453323771324212,Beethoven
+254,ADQ024,Music,Beethoven 1,Beeth. 1,0.00218787460289553,Beethoven
+255,ADQ025,Music,Beethoven 1,Beeth. 1,0.008390723604849746,Beethoven
+256,ADQ026,Music,Beethoven 1,Beeth. 1,-0.002295045309755916,Beethoven
+257,ADQ027,Music,Beethoven 1,Beeth. 1,0.012070347795230092,Beethoven
+258,ADQ028,Music,Beethoven 1,Beeth. 1,0.010536114586944518,Beethoven
+259,ADQ029,Music,Beethoven 1,Beeth. 1,0.004714324569709828,Beethoven
+260,ADQ030,Music,Beethoven 1,Beeth. 1,0.007495066135449325,Beethoven
+261,ADQ031,Music,Beethoven 1,Beeth. 1,0.0015642103992768086,Beethoven
+262,ADQ032,Music,Beethoven 1,Beeth. 1,0.001791973813562521,Beethoven
+263,ADQ033,Music,Beethoven 1,Beeth. 1,0.005424219126488106,Beethoven
+264,ADQ034,Music,Beethoven 1,Beeth. 1,0.0010273624860148265,Beethoven
+265,ADQ035,Music,Beethoven 1,Beeth. 1,0.010591536662701368,Beethoven
+266,ADQ036,Music,Beethoven 1,Beeth. 1,0.008116895359144127,Beethoven
+267,ADQ037,Music,Beethoven 1,Beeth. 1,0.009279069034855173,Beethoven
+268,ADQ038,Music,Beethoven 1,Beeth. 1,0.0005980744823410747,Beethoven
+269,ADQ039,Music,Beethoven 1,Beeth. 1,0.0036060225039742416,Beethoven
+270,ADQ040,Music,Beethoven 1,Beeth. 1,0.002935435724040655,Beethoven
+271,ADQ041,Music,Beethoven 1,Beeth. 1,0.019702970083213537,Beethoven
+272,ADQ042,Music,Beethoven 1,Beeth. 1,0.01747477780892499,Beethoven
+273,ADQ043,Music,Beethoven 1,Beeth. 1,0.006755158512222899,Beethoven
+274,ADQ044,Music,Beethoven 1,Beeth. 1,0.0009043375289483145,Beethoven
+275,ADQ045,Music,Beethoven 1,Beeth. 1,0.004089732198159757,Beethoven
+276,ADQ046,Music,Beethoven 1,Beeth. 1,0.005081751438718164,Beethoven
+277,ADQ047,Music,Beethoven 1,Beeth. 1,0.001587874387216884,Beethoven
+278,ADQ048,Music,Beethoven 1,Beeth. 1,0.004997167668500411,Beethoven
+279,ADQ049,Music,Beethoven 1,Beeth. 1,0.012976841698437188,Beethoven
+280,ADQ050,Music,Beethoven 1,Beeth. 1,-0.004078766003381914,Beethoven
+281,ADQ051,Music,Beethoven 1,Beeth. 1,0.007776101460673425,Beethoven
+282,ADQ052,Music,Beethoven 1,Beeth. 1,0.0043718928337785935,Beethoven
+283,ADQ053,Music,Beethoven 1,Beeth. 1,0.006891772906128452,Beethoven
+284,ADQ054,Music,Beethoven 1,Beeth. 1,0.006498947857035879,Beethoven
+285,ADQ055,Music,Beethoven 1,Beeth. 1,0.008760627865084497,Beethoven
+286,ADQ056,Music,Beethoven 1,Beeth. 1,0.016005805239891733,Beethoven
+287,ADQ057,Music,Beethoven 1,Beeth. 1,-0.0028128400661789313,Beethoven
+288,ADQ058,Music,Beethoven 1,Beeth. 1,0.0004597772223794234,Beethoven
+289,ADQ059,Music,Beethoven 1,Beeth. 1,-0.0019658270895702556,Beethoven
+290,ADQ060,Music,Beethoven 1,Beeth. 1,0.004155558064884876,Beethoven
+291,ADQ061,Music,Beethoven 1,Beeth. 1,0.0071643425319285045,Beethoven
+292,ADQ062,Music,Beethoven 1,Beeth. 1,-0.005184017891693774,Beethoven
+293,ADQ063,Music,Beethoven 1,Beeth. 1,0.0022241003306044016,Beethoven
+294,ADQ064,Music,Beethoven 1,Beeth. 1,0.0017781214763741117,Beethoven
+295,ADQ065,Music,Beethoven 1,Beeth. 1,-0.0022200826457975486,Beethoven
+296,ADQ066,Music,Beethoven 1,Beeth. 1,0.007432955159950471,Beethoven
+297,ADR067,Music,Beethoven 1,Beeth. 1,-0.00011139008094356617,Beethoven
+298,ADR068,Music,Beethoven 1,Beeth. 1,-0.002445058457659955,Beethoven
+299,ADR069,Music,Beethoven 1,Beeth. 1,0.003409061206493616,Beethoven
+300,ADR070,Music,Beethoven 1,Beeth. 1,0.006958467969878174,Beethoven
+301,ADR071,Music,Beethoven 1,Beeth. 1,0.005029459971533335,Beethoven
+302,AEQ077,Music,Beethoven 1,Beeth. 1,0.008141379295101631,Beethoven
+303,AEQ078,Music,Beethoven 1,Beeth. 1,0.014725943449498553,Beethoven
+304,AEQ079,Music,Beethoven 1,Beeth. 1,0.00157470476587593,Beethoven
+305,AEQ080,Music,Beethoven 1,Beeth. 1,0.0062200691736970185,Beethoven
+306,AEQ081,Music,Beethoven 1,Beeth. 1,0.008609661138894456,Beethoven
+307,AEQ082,Music,Beethoven 1,Beeth. 1,0.004902250180165569,Beethoven
+308,AEQ083,Music,Beethoven 1,Beeth. 1,0.001994794170454154,Beethoven
+309,AEQ084,Music,Beethoven 1,Beeth. 1,-0.006189187882934242,Beethoven
+310,AEQ085,Music,Beethoven 1,Beeth. 1,-0.0049083129624526226,Beethoven
+311,AEQ087,Music,Beethoven 1,Beeth. 1,-0.002272765503080994,Beethoven
+312,AEQ088,Music,Beethoven 1,Beeth. 1,-0.004290836341023147,Beethoven
+313,AEQ089,Music,Beethoven 1,Beeth. 1,0.0016460625516935314,Beethoven
+314,AER090,Music,Beethoven 1,Beeth. 1,0.00014193769880648712,Beethoven
+315,ADQ001,Music,Beethoven 1,Beeth. 1,0.00349394038785549,Beethoven
+316,ADQ003,Music,Beethoven 2,Beeth. 2,0.015904172312011453,Beethoven
+317,ADQ004,Music,Beethoven 2,Beeth. 2,0.00872492436691788,Beethoven
+318,ADQ005,Music,Beethoven 2,Beeth. 2,0.008732349635838547,Beethoven
+319,ADQ006,Music,Beethoven 2,Beeth. 2,0.017561926745129196,Beethoven
+320,ADQ007,Music,Beethoven 2,Beeth. 2,0.012957073525215041,Beethoven
+321,ADQ008,Music,Beethoven 2,Beeth. 2,-0.002766786136672125,Beethoven
+322,ADQ009,Music,Beethoven 2,Beeth. 2,0.0028430818949819925,Beethoven
+323,ADQ010,Music,Beethoven 2,Beeth. 2,0.017901073997035596,Beethoven
+324,ADQ011,Music,Beethoven 2,Beeth. 2,0.013906105099969267,Beethoven
+325,ADQ012,Music,Beethoven 2,Beeth. 2,0.0026895379787491226,Beethoven
+326,ADQ013,Music,Beethoven 2,Beeth. 2,-0.0005049101666814319,Beethoven
+327,ADQ014,Music,Beethoven 2,Beeth. 2,0.0026107905292008923,Beethoven
+328,ADQ015,Music,Beethoven 2,Beeth. 2,0.003741173265738858,Beethoven
+329,ADQ016,Music,Beethoven 2,Beeth. 2,-0.003004482205481272,Beethoven
+330,ADQ018,Music,Beethoven 2,Beeth. 2,0.002502852151659545,Beethoven
+331,ADQ019,Music,Beethoven 2,Beeth. 2,0.0015032732333674229,Beethoven
+332,ADQ020,Music,Beethoven 2,Beeth. 2,0.007262479183620012,Beethoven
+333,ADQ021,Music,Beethoven 2,Beeth. 2,0.035576671785072164,Beethoven
+334,ADQ022,Music,Beethoven 2,Beeth. 2,-0.006432677230829062,Beethoven
+335,ADQ023,Music,Beethoven 2,Beeth. 2,0.0069150018604827645,Beethoven
+336,ADQ024,Music,Beethoven 2,Beeth. 2,0.0038112550674990137,Beethoven
+337,ADQ025,Music,Beethoven 2,Beeth. 2,0.03168430767761974,Beethoven
+338,ADQ026,Music,Beethoven 2,Beeth. 2,0.018378006072795685,Beethoven
+339,ADQ027,Music,Beethoven 2,Beeth. 2,0.010153502620842296,Beethoven
+340,ADQ028,Music,Beethoven 2,Beeth. 2,0.00427125312036787,Beethoven
+341,ADQ029,Music,Beethoven 2,Beeth. 2,-0.0023518768740704685,Beethoven
+342,ADQ030,Music,Beethoven 2,Beeth. 2,-0.00206597915230805,Beethoven
+343,ADQ031,Music,Beethoven 2,Beeth. 2,0.013901218727637702,Beethoven
+344,ADQ032,Music,Beethoven 2,Beeth. 2,-0.0003213242722974481,Beethoven
+345,ADQ033,Music,Beethoven 2,Beeth. 2,-0.0022245893984817497,Beethoven
+346,ADQ034,Music,Beethoven 2,Beeth. 2,0.00379204069349905,Beethoven
+347,ADQ035,Music,Beethoven 2,Beeth. 2,0.02372234170306489,Beethoven
+348,ADQ036,Music,Beethoven 2,Beeth. 2,0.01022434073849415,Beethoven
+349,ADQ037,Music,Beethoven 2,Beeth. 2,-0.005336019032413348,Beethoven
+350,ADQ038,Music,Beethoven 2,Beeth. 2,0.004843076111483072,Beethoven
+351,ADQ039,Music,Beethoven 2,Beeth. 2,-0.004667312761796248,Beethoven
+352,ADQ040,Music,Beethoven 2,Beeth. 2,0.013944084227140979,Beethoven
+353,ADQ041,Music,Beethoven 2,Beeth. 2,0.010946332020953154,Beethoven
+354,ADQ042,Music,Beethoven 2,Beeth. 2,0.011431672515601813,Beethoven
+355,ADQ043,Music,Beethoven 2,Beeth. 2,0.02189564361741097,Beethoven
+356,ADQ044,Music,Beethoven 2,Beeth. 2,0.007185219068017462,Beethoven
+357,ADQ045,Music,Beethoven 2,Beeth. 2,0.005080330801389736,Beethoven
+358,ADQ046,Music,Beethoven 2,Beeth. 2,0.003448910083845527,Beethoven
+359,ADQ047,Music,Beethoven 2,Beeth. 2,0.0011286304480087144,Beethoven
+360,ADQ048,Music,Beethoven 2,Beeth. 2,0.016859677786698286,Beethoven
+361,ADQ049,Music,Beethoven 2,Beeth. 2,0.0001269014929119927,Beethoven
+362,ADQ050,Music,Beethoven 2,Beeth. 2,0.007588719482131454,Beethoven
+363,ADQ051,Music,Beethoven 2,Beeth. 2,0.008090962994490546,Beethoven
+364,ADQ052,Music,Beethoven 2,Beeth. 2,0.004032002236162904,Beethoven
+365,ADQ053,Music,Beethoven 2,Beeth. 2,-0.00517361777377415,Beethoven
+366,ADQ054,Music,Beethoven 2,Beeth. 2,0.00804988799970377,Beethoven
+367,ADQ055,Music,Beethoven 2,Beeth. 2,0.00648807032419411,Beethoven
+368,ADQ056,Music,Beethoven 2,Beeth. 2,0.00023285138998271874,Beethoven
+369,ADQ057,Music,Beethoven 2,Beeth. 2,-0.002759485626864956,Beethoven
+370,ADQ058,Music,Beethoven 2,Beeth. 2,0.012668325608612719,Beethoven
+371,ADQ059,Music,Beethoven 2,Beeth. 2,0.016471751673067407,Beethoven
+372,ADQ060,Music,Beethoven 2,Beeth. 2,0.012419378536765734,Beethoven
+373,ADQ061,Music,Beethoven 2,Beeth. 2,-0.006666160311146678,Beethoven
+374,ADQ062,Music,Beethoven 2,Beeth. 2,0.01563188987796185,Beethoven
+375,ADQ063,Music,Beethoven 2,Beeth. 2,0.0036462601875249315,Beethoven
+376,ADQ064,Music,Beethoven 2,Beeth. 2,0.008107180880751973,Beethoven
+377,ADQ065,Music,Beethoven 2,Beeth. 2,0.01344831299490024,Beethoven
+378,ADQ066,Music,Beethoven 2,Beeth. 2,0.007054572804635961,Beethoven
+379,ADR067,Music,Beethoven 2,Beeth. 2,0.002761495153585203,Beethoven
+380,ADR068,Music,Beethoven 2,Beeth. 2,0.004443950493892084,Beethoven
+381,ADR069,Music,Beethoven 2,Beeth. 2,0.011048678717186344,Beethoven
+382,ADR070,Music,Beethoven 2,Beeth. 2,0.0034442230946917143,Beethoven
+383,ADR071,Music,Beethoven 2,Beeth. 2,0.006370586931962051,Beethoven
+384,AEQ077,Music,Beethoven 2,Beeth. 2,0.007494600517372285,Beethoven
+385,AEQ078,Music,Beethoven 2,Beeth. 2,0.01632333434821278,Beethoven
+386,AEQ079,Music,Beethoven 2,Beeth. 2,0.006704239140924537,Beethoven
+387,AEQ080,Music,Beethoven 2,Beeth. 2,0.031592035739231944,Beethoven
+388,AEQ081,Music,Beethoven 2,Beeth. 2,-0.004739716894236222,Beethoven
+389,AEQ082,Music,Beethoven 2,Beeth. 2,0.012844818364978765,Beethoven
+390,AEQ083,Music,Beethoven 2,Beeth. 2,0.007379306125707846,Beethoven
+391,AEQ084,Music,Beethoven 2,Beeth. 2,0.015167803138370644,Beethoven
+392,AEQ085,Music,Beethoven 2,Beeth. 2,0.0022083408698913465,Beethoven
+393,AEQ087,Music,Beethoven 2,Beeth. 2,0.0029979270267032412,Beethoven
+394,AEQ088,Music,Beethoven 2,Beeth. 2,0.013232276445657646,Beethoven
+395,AEQ089,Music,Beethoven 2,Beeth. 2,0.01179010277135345,Beethoven
+396,AER090,Music,Beethoven 2,Beeth. 2,0.02257254670928573,Beethoven
+397,ADQ001,Music,Beethoven 2,Beeth. 2,0.012364682663757015,Beethoven
+398,ADQ003,Music,Beethoven 3,Beeth. 3,0.008009082664468438,Beethoven
+399,ADQ004,Music,Beethoven 3,Beeth. 3,0.003983875811570471,Beethoven
+400,ADQ005,Music,Beethoven 3,Beeth. 3,0.006565368200361531,Beethoven
+401,ADQ006,Music,Beethoven 3,Beeth. 3,0.003869301842617095,Beethoven
+402,ADQ007,Music,Beethoven 3,Beeth. 3,0.009208932236278675,Beethoven
+403,ADQ008,Music,Beethoven 3,Beeth. 3,0.0007876330276567951,Beethoven
+404,ADQ009,Music,Beethoven 3,Beeth. 3,0.006554637762176331,Beethoven
+405,ADQ010,Music,Beethoven 3,Beeth. 3,0.006882288599615312,Beethoven
+406,ADQ011,Music,Beethoven 3,Beeth. 3,0.011491095433050774,Beethoven
+407,ADQ012,Music,Beethoven 3,Beeth. 3,0.005938291186701838,Beethoven
+408,ADQ013,Music,Beethoven 3,Beeth. 3,0.0025607169822480943,Beethoven
+409,ADQ014,Music,Beethoven 3,Beeth. 3,0.003869167053925993,Beethoven
+410,ADQ015,Music,Beethoven 3,Beeth. 3,0.004301502347639369,Beethoven
+411,ADQ016,Music,Beethoven 3,Beeth. 3,-0.006027744943325201,Beethoven
+412,ADQ018,Music,Beethoven 3,Beeth. 3,0.004048713706065926,Beethoven
+413,ADQ019,Music,Beethoven 3,Beeth. 3,0.0002845347396191374,Beethoven
+414,ADQ020,Music,Beethoven 3,Beeth. 3,-0.0020189433062065614,Beethoven
+415,ADQ021,Music,Beethoven 3,Beeth. 3,0.012144729118074201,Beethoven
+416,ADQ022,Music,Beethoven 3,Beeth. 3,0.00015005376941724168,Beethoven
+417,ADQ023,Music,Beethoven 3,Beeth. 3,0.0037577359341246504,Beethoven
+418,ADQ024,Music,Beethoven 3,Beeth. 3,-0.006761258335344555,Beethoven
+419,ADQ025,Music,Beethoven 3,Beeth. 3,0.0035644368015187657,Beethoven
+420,ADQ026,Music,Beethoven 3,Beeth. 3,-0.000422626032173303,Beethoven
+421,ADQ027,Music,Beethoven 3,Beeth. 3,0.009415265112331374,Beethoven
+422,ADQ028,Music,Beethoven 3,Beeth. 3,0.010887768427153858,Beethoven
+423,ADQ029,Music,Beethoven 3,Beeth. 3,0.0019376548853034142,Beethoven
+424,ADQ030,Music,Beethoven 3,Beeth. 3,0.00556172505019502,Beethoven
+425,ADQ031,Music,Beethoven 3,Beeth. 3,0.01118919184247019,Beethoven
+426,ADQ032,Music,Beethoven 3,Beeth. 3,0.00031641812474917047,Beethoven
+427,ADQ033,Music,Beethoven 3,Beeth. 3,0.006929723528922194,Beethoven
+428,ADQ034,Music,Beethoven 3,Beeth. 3,0.0006701186961839341,Beethoven
+429,ADQ035,Music,Beethoven 3,Beeth. 3,-0.0018615752982856157,Beethoven
+430,ADQ036,Music,Beethoven 3,Beeth. 3,0.002055322369656269,Beethoven
+431,ADQ037,Music,Beethoven 3,Beeth. 3,0.01158599831592966,Beethoven
+432,ADQ038,Music,Beethoven 3,Beeth. 3,0.0037376357917385094,Beethoven
+433,ADQ039,Music,Beethoven 3,Beeth. 3,0.005107385583331377,Beethoven
+434,ADQ040,Music,Beethoven 3,Beeth. 3,0.0048746266660906175,Beethoven
+435,ADQ041,Music,Beethoven 3,Beeth. 3,-0.0016295611942697852,Beethoven
+436,ADQ043,Music,Beethoven 3,Beeth. 3,0.0024000213665220766,Beethoven
+437,ADQ044,Music,Beethoven 3,Beeth. 3,0.01156486295221469,Beethoven
+438,ADQ045,Music,Beethoven 3,Beeth. 3,-0.003254747393343221,Beethoven
+439,ADQ046,Music,Beethoven 3,Beeth. 3,-0.007625130178852305,Beethoven
+440,ADQ047,Music,Beethoven 3,Beeth. 3,0.005905296114034276,Beethoven
+441,ADQ048,Music,Beethoven 3,Beeth. 3,0.010036753239137533,Beethoven
+442,ADQ049,Music,Beethoven 3,Beeth. 3,0.004566675013982575,Beethoven
+443,ADQ050,Music,Beethoven 3,Beeth. 3,0.0044136730862988785,Beethoven
+444,ADQ051,Music,Beethoven 3,Beeth. 3,0.003099150051485644,Beethoven
+445,ADQ052,Music,Beethoven 3,Beeth. 3,0.010838620405737681,Beethoven
+446,ADQ053,Music,Beethoven 3,Beeth. 3,-9.541390635143358e-05,Beethoven
+447,ADQ054,Music,Beethoven 3,Beeth. 3,0.004087108400430875,Beethoven
+448,ADQ055,Music,Beethoven 3,Beeth. 3,0.004241442254043059,Beethoven
+449,ADQ056,Music,Beethoven 3,Beeth. 3,0.006608943707243322,Beethoven
+450,ADQ057,Music,Beethoven 3,Beeth. 3,-0.0007499478711375349,Beethoven
+451,ADQ058,Music,Beethoven 3,Beeth. 3,-0.001126353424065007,Beethoven
+452,ADQ059,Music,Beethoven 3,Beeth. 3,0.005970114230227074,Beethoven
+453,ADQ060,Music,Beethoven 3,Beeth. 3,0.00605175339135776,Beethoven
+454,ADQ061,Music,Beethoven 3,Beeth. 3,0.004513724973866148,Beethoven
+455,ADQ062,Music,Beethoven 3,Beeth. 3,0.0029033860927453635,Beethoven
+456,ADQ063,Music,Beethoven 3,Beeth. 3,-0.001828954094080216,Beethoven
+457,ADQ064,Music,Beethoven 3,Beeth. 3,0.0023480362901536376,Beethoven
+458,ADQ065,Music,Beethoven 3,Beeth. 3,0.005508829308992031,Beethoven
+459,ADQ066,Music,Beethoven 3,Beeth. 3,0.005458009968084138,Beethoven
+460,ADR067,Music,Beethoven 3,Beeth. 3,-0.0019371189586710196,Beethoven
+461,ADR068,Music,Beethoven 3,Beeth. 3,-0.0009041388570455637,Beethoven
+462,ADR069,Music,Beethoven 3,Beeth. 3,0.005722952023691842,Beethoven
+463,ADR070,Music,Beethoven 3,Beeth. 3,0.001998723279332758,Beethoven
+464,ADR071,Music,Beethoven 3,Beeth. 3,0.0012516066760039502,Beethoven
+465,AEQ077,Music,Beethoven 3,Beeth. 3,0.006265143183690934,Beethoven
+466,AEQ078,Music,Beethoven 3,Beeth. 3,0.0042023145563704276,Beethoven
+467,AEQ079,Music,Beethoven 3,Beeth. 3,-0.0012350575148870624,Beethoven
+468,AEQ080,Music,Beethoven 3,Beeth. 3,0.0008177968613311412,Beethoven
+469,AEQ081,Music,Beethoven 3,Beeth. 3,0.0024654294950676625,Beethoven
+470,AEQ082,Music,Beethoven 3,Beeth. 3,0.004700543450513023,Beethoven
+471,AEQ083,Music,Beethoven 3,Beeth. 3,0.004700942820331917,Beethoven
+472,AEQ084,Music,Beethoven 3,Beeth. 3,-0.0016128391176057316,Beethoven
+473,AEQ085,Music,Beethoven 3,Beeth. 3,0.004518513710514546,Beethoven
+474,AEQ087,Music,Beethoven 3,Beeth. 3,0.0039025833998660767,Beethoven
+475,AEQ088,Music,Beethoven 3,Beeth. 3,0.0017001065755263515,Beethoven
+476,AEQ089,Music,Beethoven 3,Beeth. 3,0.0033628930948785955,Beethoven
+477,AER090,Music,Beethoven 3,Beeth. 3,0.0049676439810126755,Beethoven
+478,ADQ001,Music,Beethoven 3,Beeth. 3,-0.002755349957026931,Beethoven
+479,ADQ003,Music,Beethoven 4,Beeth. 4,0.008166399131494653,Beethoven
+480,ADQ004,Music,Beethoven 4,Beeth. 4,0.007210532963557685,Beethoven
+481,ADQ005,Music,Beethoven 4,Beeth. 4,0.013501071519643547,Beethoven
+482,ADQ006,Music,Beethoven 4,Beeth. 4,0.00264650999880031,Beethoven
+483,ADQ007,Music,Beethoven 4,Beeth. 4,0.011477002530884961,Beethoven
+484,ADQ008,Music,Beethoven 4,Beeth. 4,0.021228606243867187,Beethoven
+485,ADQ009,Music,Beethoven 4,Beeth. 4,-0.0029229440181535982,Beethoven
+486,ADQ010,Music,Beethoven 4,Beeth. 4,0.009726427381586708,Beethoven
+487,ADQ011,Music,Beethoven 4,Beeth. 4,0.004100257153466356,Beethoven
+488,ADQ012,Music,Beethoven 4,Beeth. 4,0.0014139039650588874,Beethoven
+489,ADQ013,Music,Beethoven 4,Beeth. 4,0.011324151933933033,Beethoven
+490,ADQ014,Music,Beethoven 4,Beeth. 4,0.012750251586622999,Beethoven
+491,ADQ015,Music,Beethoven 4,Beeth. 4,0.005328091180654521,Beethoven
+492,ADQ016,Music,Beethoven 4,Beeth. 4,0.020393418067609567,Beethoven
+493,ADQ018,Music,Beethoven 4,Beeth. 4,0.03162855895223565,Beethoven
+494,ADQ019,Music,Beethoven 4,Beeth. 4,0.002989190589350876,Beethoven
+495,ADQ020,Music,Beethoven 4,Beeth. 4,0.0034413314054392856,Beethoven
+496,ADQ021,Music,Beethoven 4,Beeth. 4,0.022443098570008615,Beethoven
+497,ADQ022,Music,Beethoven 4,Beeth. 4,0.018380285480324086,Beethoven
+498,ADQ023,Music,Beethoven 4,Beeth. 4,0.009350746986981892,Beethoven
+499,ADQ024,Music,Beethoven 4,Beeth. 4,0.006758598479016318,Beethoven
+500,ADQ025,Music,Beethoven 4,Beeth. 4,0.037766534471461305,Beethoven
+501,ADQ026,Music,Beethoven 4,Beeth. 4,0.008120105803662956,Beethoven
+502,ADQ027,Music,Beethoven 4,Beeth. 4,0.0437532793502114,Beethoven
+503,ADQ028,Music,Beethoven 4,Beeth. 4,0.002231939677168807,Beethoven
+504,ADQ029,Music,Beethoven 4,Beeth. 4,0.004141807171526925,Beethoven
+505,ADQ030,Music,Beethoven 4,Beeth. 4,0.006947131802578685,Beethoven
+506,ADQ031,Music,Beethoven 4,Beeth. 4,0.00918861789233736,Beethoven
+507,ADQ032,Music,Beethoven 4,Beeth. 4,0.012899466475549137,Beethoven
+508,ADQ033,Music,Beethoven 4,Beeth. 4,0.010436879202581824,Beethoven
+509,ADQ034,Music,Beethoven 4,Beeth. 4,-0.006689811637530607,Beethoven
+510,ADQ035,Music,Beethoven 4,Beeth. 4,0.0041708342488544605,Beethoven
+511,ADQ036,Music,Beethoven 4,Beeth. 4,0.009505945420249915,Beethoven
+512,ADQ037,Music,Beethoven 4,Beeth. 4,0.02416864531995272,Beethoven
+513,ADQ038,Music,Beethoven 4,Beeth. 4,0.011485525673989272,Beethoven
+514,ADQ039,Music,Beethoven 4,Beeth. 4,0.0020119197418713964,Beethoven
+515,ADQ040,Music,Beethoven 4,Beeth. 4,0.018322329588076867,Beethoven
+516,ADQ041,Music,Beethoven 4,Beeth. 4,0.03579615062097265,Beethoven
+517,ADQ042,Music,Beethoven 4,Beeth. 4,0.02036651818877861,Beethoven
+518,ADQ043,Music,Beethoven 4,Beeth. 4,0.01775620265279617,Beethoven
+519,ADQ044,Music,Beethoven 4,Beeth. 4,0.007839338802334412,Beethoven
+520,ADQ045,Music,Beethoven 4,Beeth. 4,0.008739668596534021,Beethoven
+521,ADQ046,Music,Beethoven 4,Beeth. 4,0.005732141378938415,Beethoven
+522,ADQ047,Music,Beethoven 4,Beeth. 4,0.013040180459707085,Beethoven
+523,ADQ048,Music,Beethoven 4,Beeth. 4,0.020416507365056367,Beethoven
+524,ADQ049,Music,Beethoven 4,Beeth. 4,0.01776154023979132,Beethoven
+525,ADQ050,Music,Beethoven 4,Beeth. 4,0.00337989001146215,Beethoven
+526,ADQ051,Music,Beethoven 4,Beeth. 4,0.010499975411912122,Beethoven
+527,ADQ052,Music,Beethoven 4,Beeth. 4,0.025543182758913326,Beethoven
+528,ADQ053,Music,Beethoven 4,Beeth. 4,0.004744624976216866,Beethoven
+529,ADQ054,Music,Beethoven 4,Beeth. 4,0.028757485978983716,Beethoven
+530,ADQ055,Music,Beethoven 4,Beeth. 4,0.03710422323200093,Beethoven
+531,ADQ056,Music,Beethoven 4,Beeth. 4,0.026531976449913043,Beethoven
+532,ADQ057,Music,Beethoven 4,Beeth. 4,0.0053304717527072,Beethoven
+533,ADQ059,Music,Beethoven 4,Beeth. 4,0.0025249096788765987,Beethoven
+534,ADQ060,Music,Beethoven 4,Beeth. 4,0.018662517884401965,Beethoven
+535,ADQ061,Music,Beethoven 4,Beeth. 4,0.027133045169875063,Beethoven
+536,ADQ062,Music,Beethoven 4,Beeth. 4,0.006219198822895263,Beethoven
+537,ADQ063,Music,Beethoven 4,Beeth. 4,0.016220421227561777,Beethoven
+538,ADQ064,Music,Beethoven 4,Beeth. 4,0.008588585810778837,Beethoven
+539,ADQ065,Music,Beethoven 4,Beeth. 4,0.028898997997609577,Beethoven
+540,ADQ066,Music,Beethoven 4,Beeth. 4,0.027929496232110912,Beethoven
+541,ADR067,Music,Beethoven 4,Beeth. 4,0.005398324623344358,Beethoven
+542,ADR068,Music,Beethoven 4,Beeth. 4,0.019839938857891423,Beethoven
+543,ADR069,Music,Beethoven 4,Beeth. 4,0.014672066622052215,Beethoven
+544,ADR070,Music,Beethoven 4,Beeth. 4,0.00046511793990526134,Beethoven
+545,ADR071,Music,Beethoven 4,Beeth. 4,0.0026698490360109396,Beethoven
+546,AEQ077,Music,Beethoven 4,Beeth. 4,0.029707006172340462,Beethoven
+547,AEQ078,Music,Beethoven 4,Beeth. 4,0.03132407832953701,Beethoven
+548,AEQ079,Music,Beethoven 4,Beeth. 4,0.015677164790192596,Beethoven
+549,AEQ080,Music,Beethoven 4,Beeth. 4,0.024534299937699334,Beethoven
+550,AEQ081,Music,Beethoven 4,Beeth. 4,0.020472690934428345,Beethoven
+551,AEQ082,Music,Beethoven 4,Beeth. 4,0.018916372273781113,Beethoven
+552,AEQ083,Music,Beethoven 4,Beeth. 4,0.018364114166951155,Beethoven
+553,AEQ084,Music,Beethoven 4,Beeth. 4,0.006377260897408232,Beethoven
+554,AEQ085,Music,Beethoven 4,Beeth. 4,0.0075038142318382805,Beethoven
+555,AEQ087,Music,Beethoven 4,Beeth. 4,0.015211973259140832,Beethoven
+556,AEQ088,Music,Beethoven 4,Beeth. 4,0.006513386851641509,Beethoven
+557,AEQ089,Music,Beethoven 4,Beeth. 4,0.00836302995140778,Beethoven
+558,AER090,Music,Beethoven 4,Beeth. 4,0.012937119908621366,Beethoven
+559,ADQ001,Music,Beethoven 4,Beeth. 4,0.026921851725047255,Beethoven
+560,ADQ003,Survey,Survey for Beethoven,Survey 1,0.003903784238094723,Survey
+561,ADQ004,Survey,Survey for Beethoven,Survey 1,0.08101740591306987,Survey
+562,ADQ005,Survey,Survey for Beethoven,Survey 1,0.05699095795938628,Survey
+563,ADQ006,Survey,Survey for Beethoven,Survey 1,0.07589786931336309,Survey
+564,ADQ007,Survey,Survey for Beethoven,Survey 1,0.09053959596836454,Survey
+565,ADQ008,Survey,Survey for Beethoven,Survey 1,0.0829217409710315,Survey
+566,ADQ009,Survey,Survey for Beethoven,Survey 1,0.0850943707285506,Survey
+567,ADQ010,Survey,Survey for Beethoven,Survey 1,0.11805932813074625,Survey
+568,ADQ011,Survey,Survey for Beethoven,Survey 1,0.048986671355171825,Survey
+569,ADQ012,Survey,Survey for Beethoven,Survey 1,0.01236665286706489,Survey
+570,ADQ013,Survey,Survey for Beethoven,Survey 1,0.024243369053686438,Survey
+571,ADQ014,Survey,Survey for Beethoven,Survey 1,0.04773846911813877,Survey
+572,ADQ015,Survey,Survey for Beethoven,Survey 1,0.04079503966980336,Survey
+573,ADQ016,Survey,Survey for Beethoven,Survey 1,0.035057541310703565,Survey
+574,ADQ018,Survey,Survey for Beethoven,Survey 1,0.012933368639573008,Survey
+575,ADQ019,Survey,Survey for Beethoven,Survey 1,0.0337805108143168,Survey
+576,ADQ020,Survey,Survey for Beethoven,Survey 1,0.06206485915379134,Survey
+577,ADQ021,Survey,Survey for Beethoven,Survey 1,0.09816425757130852,Survey
+578,ADQ022,Survey,Survey for Beethoven,Survey 1,0.05995524147497353,Survey
+579,ADQ023,Survey,Survey for Beethoven,Survey 1,0.10752665563127825,Survey
+580,ADQ024,Survey,Survey for Beethoven,Survey 1,0.024962576395111014,Survey
+581,ADQ025,Survey,Survey for Beethoven,Survey 1,0.0018817735800804416,Survey
+582,ADQ026,Survey,Survey for Beethoven,Survey 1,0.07489014336516793,Survey
+583,ADQ027,Survey,Survey for Beethoven,Survey 1,0.036685688958215015,Survey
+584,ADQ028,Survey,Survey for Beethoven,Survey 1,0.03800433688538914,Survey
+585,ADQ029,Survey,Survey for Beethoven,Survey 1,0.1026690171421988,Survey
+586,ADQ030,Survey,Survey for Beethoven,Survey 1,0.10729907799729206,Survey
+587,ADQ031,Survey,Survey for Beethoven,Survey 1,0.08629023527033544,Survey
+588,ADQ032,Survey,Survey for Beethoven,Survey 1,0.10724316351931841,Survey
+589,ADQ033,Survey,Survey for Beethoven,Survey 1,0.038794593180980545,Survey
+590,ADQ034,Survey,Survey for Beethoven,Survey 1,0.028350593924025603,Survey
+591,ADQ035,Survey,Survey for Beethoven,Survey 1,0.08443706287253049,Survey
+592,ADQ036,Survey,Survey for Beethoven,Survey 1,0.09735167469381946,Survey
+593,ADQ037,Survey,Survey for Beethoven,Survey 1,0.02288381682174401,Survey
+594,ADQ038,Survey,Survey for Beethoven,Survey 1,0.039102204118844776,Survey
+595,ADQ039,Survey,Survey for Beethoven,Survey 1,0.035626910103595935,Survey
+596,ADQ040,Survey,Survey for Beethoven,Survey 1,0.052877611931726645,Survey
+597,ADQ041,Survey,Survey for Beethoven,Survey 1,0.07458288305641146,Survey
+598,ADQ042,Survey,Survey for Beethoven,Survey 1,0.07417254200906642,Survey
+599,ADQ043,Survey,Survey for Beethoven,Survey 1,0.04711764971024695,Survey
+600,ADQ044,Survey,Survey for Beethoven,Survey 1,0.07025692458033614,Survey
+601,ADQ045,Survey,Survey for Beethoven,Survey 1,0.032982021480666715,Survey
+602,ADQ046,Survey,Survey for Beethoven,Survey 1,0.08500060261622482,Survey
+603,ADQ047,Survey,Survey for Beethoven,Survey 1,0.03023140301778527,Survey
+604,ADQ048,Survey,Survey for Beethoven,Survey 1,0.0866052753050391,Survey
+605,ADQ049,Survey,Survey for Beethoven,Survey 1,0.034746291192019635,Survey
+606,ADQ050,Survey,Survey for Beethoven,Survey 1,0.006330367104457271,Survey
+607,ADQ051,Survey,Survey for Beethoven,Survey 1,0.05817069410326864,Survey
+608,ADQ052,Survey,Survey for Beethoven,Survey 1,0.05101014905592211,Survey
+609,ADQ053,Survey,Survey for Beethoven,Survey 1,0.03254945670623887,Survey
+610,ADQ054,Survey,Survey for Beethoven,Survey 1,0.08852314760764159,Survey
+611,ADQ055,Survey,Survey for Beethoven,Survey 1,-0.011061791533980798,Survey
+612,ADQ056,Survey,Survey for Beethoven,Survey 1,0.033333798639119464,Survey
+613,ADQ057,Survey,Survey for Beethoven,Survey 1,0.06046740350324459,Survey
+614,ADQ059,Survey,Survey for Beethoven,Survey 1,0.05804515780778591,Survey
+615,ADQ060,Survey,Survey for Beethoven,Survey 1,0.03370064981672874,Survey
+616,ADQ061,Survey,Survey for Beethoven,Survey 1,0.07949994419989082,Survey
+617,ADQ062,Survey,Survey for Beethoven,Survey 1,0.1014240089565797,Survey
+618,ADQ063,Survey,Survey for Beethoven,Survey 1,0.03190019321878265,Survey
+619,ADQ065,Survey,Survey for Beethoven,Survey 1,0.02360204153263516,Survey
+620,ADQ066,Survey,Survey for Beethoven,Survey 1,0.03493039504495918,Survey
+621,ADR067,Survey,Survey for Beethoven,Survey 1,0.0677414932544893,Survey
+622,ADR068,Survey,Survey for Beethoven,Survey 1,0.036824085593399204,Survey
+623,ADR069,Survey,Survey for Beethoven,Survey 1,0.03931297564172837,Survey
+624,ADR070,Survey,Survey for Beethoven,Survey 1,0.05117158665041219,Survey
+625,ADR071,Survey,Survey for Beethoven,Survey 1,0.006586521928616489,Survey
+626,AEQ078,Survey,Survey for Beethoven,Survey 1,0.047701710893591216,Survey
+627,AEQ079,Survey,Survey for Beethoven,Survey 1,0.08954782189533435,Survey
+628,AEQ080,Survey,Survey for Beethoven,Survey 1,0.04784769359834852,Survey
+629,AEQ081,Survey,Survey for Beethoven,Survey 1,0.04072149971041665,Survey
+630,AEQ082,Survey,Survey for Beethoven,Survey 1,0.07664031138671906,Survey
+631,AEQ084,Survey,Survey for Beethoven,Survey 1,0.12024254592613484,Survey
+632,AEQ085,Survey,Survey for Beethoven,Survey 1,-0.009746968077856143,Survey
+633,AEQ087,Survey,Survey for Beethoven,Survey 1,0.04046249915193279,Survey
+634,AEQ088,Survey,Survey for Beethoven,Survey 1,0.08057724929054329,Survey
+635,AEQ089,Survey,Survey for Beethoven,Survey 1,0.013173261069237118,Survey
+636,AER090,Survey,Survey for Beethoven,Survey 1,0.0418083907961298,Survey
+637,ADQ001,Survey,Survey for Beethoven,Survey 1,0.02174143077122388,Survey
+638,ADQ004,Music,Schnittke 1,Schnit. 1,-0.00950476339053444,Schnittke
+639,ADQ005,Music,Schnittke 1,Schnit. 1,0.016704349015093607,Schnittke
+640,ADQ006,Music,Schnittke 1,Schnit. 1,0.005884195993095342,Schnittke
+641,ADQ007,Music,Schnittke 1,Schnit. 1,-0.0043735131940134805,Schnittke
+642,ADQ008,Music,Schnittke 1,Schnit. 1,0.004129168268567965,Schnittke
+643,ADQ009,Music,Schnittke 1,Schnit. 1,0.022437961028776144,Schnittke
+644,ADQ010,Music,Schnittke 1,Schnit. 1,0.0068775784356751605,Schnittke
+645,ADQ011,Music,Schnittke 1,Schnit. 1,0.008315863611629948,Schnittke
+646,ADQ012,Music,Schnittke 1,Schnit. 1,0.0002241451505407357,Schnittke
+647,ADQ013,Music,Schnittke 1,Schnit. 1,0.0038504634906795796,Schnittke
+648,ADQ014,Music,Schnittke 1,Schnit. 1,0.0007671032010911933,Schnittke
+649,ADQ015,Music,Schnittke 1,Schnit. 1,0.010919505928719982,Schnittke
+650,ADQ016,Music,Schnittke 1,Schnit. 1,0.0148377874156948,Schnittke
+651,ADQ018,Music,Schnittke 1,Schnit. 1,0.006689221800229303,Schnittke
+652,ADQ019,Music,Schnittke 1,Schnit. 1,-0.0032495969071651486,Schnittke
+653,ADQ020,Music,Schnittke 1,Schnit. 1,0.010273951699807146,Schnittke
+654,ADQ021,Music,Schnittke 1,Schnit. 1,0.017272733244850645,Schnittke
+655,ADQ022,Music,Schnittke 1,Schnit. 1,0.0051953996324327015,Schnittke
+656,ADQ023,Music,Schnittke 1,Schnit. 1,-0.002465726144439468,Schnittke
+657,ADQ024,Music,Schnittke 1,Schnit. 1,-0.0007181457397979101,Schnittke
+658,ADQ025,Music,Schnittke 1,Schnit. 1,-0.0005028821766373719,Schnittke
+659,ADQ026,Music,Schnittke 1,Schnit. 1,0.016807279862917288,Schnittke
+660,ADQ027,Music,Schnittke 1,Schnit. 1,-0.0020481752544347642,Schnittke
+661,ADQ028,Music,Schnittke 1,Schnit. 1,0.005251530524759051,Schnittke
+662,ADQ029,Music,Schnittke 1,Schnit. 1,0.005027670307385601,Schnittke
+663,ADQ030,Music,Schnittke 1,Schnit. 1,0.010860917196876584,Schnittke
+664,ADQ031,Music,Schnittke 1,Schnit. 1,0.016588102474827,Schnittke
+665,ADQ032,Music,Schnittke 1,Schnit. 1,0.021236527444221307,Schnittke
+666,ADQ033,Music,Schnittke 1,Schnit. 1,0.004816382803676985,Schnittke
+667,ADQ034,Music,Schnittke 1,Schnit. 1,0.013485593513472522,Schnittke
+668,ADQ035,Music,Schnittke 1,Schnit. 1,-0.0016848899300471619,Schnittke
+669,ADQ036,Music,Schnittke 1,Schnit. 1,0.004470973651291987,Schnittke
+670,ADQ037,Music,Schnittke 1,Schnit. 1,0.00807964864954448,Schnittke
+671,ADQ038,Music,Schnittke 1,Schnit. 1,0.014241916010089577,Schnittke
+672,ADQ039,Music,Schnittke 1,Schnit. 1,0.03063729930346165,Schnittke
+673,ADQ040,Music,Schnittke 1,Schnit. 1,0.004966583554689453,Schnittke
+674,ADQ041,Music,Schnittke 1,Schnit. 1,0.0037393641544115623,Schnittke
+675,ADQ042,Music,Schnittke 1,Schnit. 1,0.020301107604720876,Schnittke
+676,ADQ043,Music,Schnittke 1,Schnit. 1,0.01572644686139444,Schnittke
+677,ADQ044,Music,Schnittke 1,Schnit. 1,0.017777933821460104,Schnittke
+678,ADQ046,Music,Schnittke 1,Schnit. 1,0.0004288924848231414,Schnittke
+679,ADQ047,Music,Schnittke 1,Schnit. 1,0.004032659439780853,Schnittke
+680,ADQ048,Music,Schnittke 1,Schnit. 1,0.01002576060174059,Schnittke
+681,ADQ049,Music,Schnittke 1,Schnit. 1,0.0140135105901131,Schnittke
+682,ADQ050,Music,Schnittke 1,Schnit. 1,0.006480514756871707,Schnittke
+683,ADQ051,Music,Schnittke 1,Schnit. 1,0.0036204276850149712,Schnittke
+684,ADQ052,Music,Schnittke 1,Schnit. 1,0.005021800656772691,Schnittke
+685,ADQ053,Music,Schnittke 1,Schnit. 1,0.00899195525766173,Schnittke
+686,ADQ054,Music,Schnittke 1,Schnit. 1,0.01836890615644332,Schnittke
+687,ADQ055,Music,Schnittke 1,Schnit. 1,0.001232015021592286,Schnittke
+688,ADQ056,Music,Schnittke 1,Schnit. 1,-0.00038587467791830485,Schnittke
+689,ADQ057,Music,Schnittke 1,Schnit. 1,0.008704350039303324,Schnittke
+690,ADQ058,Music,Schnittke 1,Schnit. 1,0.007991371595418241,Schnittke
+691,ADQ059,Music,Schnittke 1,Schnit. 1,0.005358155128564402,Schnittke
+692,ADQ060,Music,Schnittke 1,Schnit. 1,0.012176670705846182,Schnittke
+693,ADQ061,Music,Schnittke 1,Schnit. 1,0.01591194579948483,Schnittke
+694,ADQ062,Music,Schnittke 1,Schnit. 1,0.00665284170161691,Schnittke
+695,ADQ063,Music,Schnittke 1,Schnit. 1,0.018093685929574974,Schnittke
+696,ADQ065,Music,Schnittke 1,Schnit. 1,0.0016134900087743252,Schnittke
+697,ADQ066,Music,Schnittke 1,Schnit. 1,0.0058223185703669715,Schnittke
+698,ADR067,Music,Schnittke 1,Schnit. 1,0.009695669564488266,Schnittke
+699,ADR068,Music,Schnittke 1,Schnit. 1,0.015457880875544677,Schnittke
+700,ADR069,Music,Schnittke 1,Schnit. 1,0.007858923693268294,Schnittke
+701,ADR070,Music,Schnittke 1,Schnit. 1,0.008116527944918324,Schnittke
+702,ADR071,Music,Schnittke 1,Schnit. 1,0.012027950319509017,Schnittke
+703,AEQ078,Music,Schnittke 1,Schnit. 1,0.00023747699946362233,Schnittke
+704,AEQ079,Music,Schnittke 1,Schnit. 1,-0.00229245285200437,Schnittke
+705,AEQ080,Music,Schnittke 1,Schnit. 1,0.016209009065254427,Schnittke
+706,AEQ081,Music,Schnittke 1,Schnit. 1,-0.00891592727535008,Schnittke
+707,AEQ082,Music,Schnittke 1,Schnit. 1,0.009794041988862098,Schnittke
+708,AEQ083,Music,Schnittke 1,Schnit. 1,0.021388128159842406,Schnittke
+709,AEQ084,Music,Schnittke 1,Schnit. 1,0.004095032795972592,Schnittke
+710,AEQ085,Music,Schnittke 1,Schnit. 1,0.007107560555458731,Schnittke
+711,AEQ087,Music,Schnittke 1,Schnit. 1,0.017109281221003782,Schnittke
+712,AEQ088,Music,Schnittke 1,Schnit. 1,0.010549986485278348,Schnittke
+713,AEQ089,Music,Schnittke 1,Schnit. 1,0.0043323354448349715,Schnittke
+714,AER090,Music,Schnittke 1,Schnit. 1,-0.0013580802533748285,Schnittke
+715,ADQ003,Music,Schnittke 1,Schnit. 1,0.004867908079813484,Schnittke
+716,ADQ004,Music,Schnittke 2,Schnit. 2,0.017921267075809103,Schnittke
+717,ADQ005,Music,Schnittke 2,Schnit. 2,-0.000616073297353103,Schnittke
+718,ADQ006,Music,Schnittke 2,Schnit. 2,0.010341341848593207,Schnittke
+719,ADQ007,Music,Schnittke 2,Schnit. 2,0.0020789405130496996,Schnittke
+720,ADQ008,Music,Schnittke 2,Schnit. 2,0.0029258586700314604,Schnittke
+721,ADQ009,Music,Schnittke 2,Schnit. 2,0.013545301632162407,Schnittke
+722,ADQ010,Music,Schnittke 2,Schnit. 2,0.00574197660991309,Schnittke
+723,ADQ011,Music,Schnittke 2,Schnit. 2,0.002269287202134373,Schnittke
+724,ADQ012,Music,Schnittke 2,Schnit. 2,-0.003716831727588642,Schnittke
+725,ADQ013,Music,Schnittke 2,Schnit. 2,-0.00017572783636235143,Schnittke
+726,ADQ014,Music,Schnittke 2,Schnit. 2,0.018584397774499533,Schnittke
+727,ADQ015,Music,Schnittke 2,Schnit. 2,0.012957776596945181,Schnittke
+728,ADQ016,Music,Schnittke 2,Schnit. 2,-0.0012843593143453181,Schnittke
+729,ADQ018,Music,Schnittke 2,Schnit. 2,0.01591091240501699,Schnittke
+730,ADQ019,Music,Schnittke 2,Schnit. 2,0.006682882432479028,Schnittke
+731,ADQ020,Music,Schnittke 2,Schnit. 2,0.006598194209605247,Schnittke
+732,ADQ021,Music,Schnittke 2,Schnit. 2,0.0038938882447934987,Schnittke
+733,ADQ022,Music,Schnittke 2,Schnit. 2,0.004161302862004002,Schnittke
+734,ADQ023,Music,Schnittke 2,Schnit. 2,-0.006448563737434656,Schnittke
+735,ADQ024,Music,Schnittke 2,Schnit. 2,-0.004654357787636317,Schnittke
+736,ADQ025,Music,Schnittke 2,Schnit. 2,0.03209054947782199,Schnittke
+737,ADQ026,Music,Schnittke 2,Schnit. 2,0.009546944003354678,Schnittke
+738,ADQ027,Music,Schnittke 2,Schnit. 2,0.008449629769408901,Schnittke
+739,ADQ028,Music,Schnittke 2,Schnit. 2,0.0017073384348677753,Schnittke
+740,ADQ029,Music,Schnittke 2,Schnit. 2,0.003084879542330199,Schnittke
+741,ADQ030,Music,Schnittke 2,Schnit. 2,-0.023285434826151502,Schnittke
+742,ADQ031,Music,Schnittke 2,Schnit. 2,0.007375672567023019,Schnittke
+743,ADQ032,Music,Schnittke 2,Schnit. 2,0.0004701651599804665,Schnittke
+744,ADQ033,Music,Schnittke 2,Schnit. 2,0.0027302296618184453,Schnittke
+745,ADQ034,Music,Schnittke 2,Schnit. 2,0.006010373182999846,Schnittke
+746,ADQ035,Music,Schnittke 2,Schnit. 2,-0.001371388535631999,Schnittke
+747,ADQ036,Music,Schnittke 2,Schnit. 2,0.004365127896980817,Schnittke
+748,ADQ037,Music,Schnittke 2,Schnit. 2,0.008065355403044311,Schnittke
+749,ADQ038,Music,Schnittke 2,Schnit. 2,0.009044859775585532,Schnittke
+750,ADQ039,Music,Schnittke 2,Schnit. 2,0.005653132178127004,Schnittke
+751,ADQ040,Music,Schnittke 2,Schnit. 2,0.00986814039762052,Schnittke
+752,ADQ041,Music,Schnittke 2,Schnit. 2,0.035431962473171576,Schnittke
+753,ADQ042,Music,Schnittke 2,Schnit. 2,0.026127592749628035,Schnittke
+754,ADQ043,Music,Schnittke 2,Schnit. 2,0.02822520745470106,Schnittke
+755,ADQ044,Music,Schnittke 2,Schnit. 2,-0.003660445664218003,Schnittke
+756,ADQ046,Music,Schnittke 2,Schnit. 2,-0.0012909737034676196,Schnittke
+757,ADQ047,Music,Schnittke 2,Schnit. 2,0.009541105222148698,Schnittke
+758,ADQ048,Music,Schnittke 2,Schnit. 2,0.015145313185936262,Schnittke
+759,ADQ049,Music,Schnittke 2,Schnit. 2,0.023485360453085576,Schnittke
+760,ADQ050,Music,Schnittke 2,Schnit. 2,0.019659462736580778,Schnittke
+761,ADQ051,Music,Schnittke 2,Schnit. 2,0.018823515934541644,Schnittke
+762,ADQ052,Music,Schnittke 2,Schnit. 2,0.0037530745277416164,Schnittke
+763,ADQ053,Music,Schnittke 2,Schnit. 2,0.00528739908101471,Schnittke
+764,ADQ054,Music,Schnittke 2,Schnit. 2,0.0010375074741319368,Schnittke
+765,ADQ055,Music,Schnittke 2,Schnit. 2,0.04337171847447574,Schnittke
+766,ADQ056,Music,Schnittke 2,Schnit. 2,0.046464141932989755,Schnittke
+767,ADQ057,Music,Schnittke 2,Schnit. 2,0.005382027428600528,Schnittke
+768,ADQ058,Music,Schnittke 2,Schnit. 2,0.004036798848930772,Schnittke
+769,ADQ059,Music,Schnittke 2,Schnit. 2,0.0025754101739346555,Schnittke
+770,ADQ060,Music,Schnittke 2,Schnit. 2,0.013788300889747208,Schnittke
+771,ADQ061,Music,Schnittke 2,Schnit. 2,0.015984003322482992,Schnittke
+772,ADQ062,Music,Schnittke 2,Schnit. 2,0.009804828356813068,Schnittke
+773,ADQ063,Music,Schnittke 2,Schnit. 2,0.0033218653164323107,Schnittke
+774,ADQ065,Music,Schnittke 2,Schnit. 2,0.007066093367267689,Schnittke
+775,ADQ066,Music,Schnittke 2,Schnit. 2,0.004970374397180977,Schnittke
+776,ADR067,Music,Schnittke 2,Schnit. 2,0.007020584589070058,Schnittke
+777,ADR068,Music,Schnittke 2,Schnit. 2,-0.003131543077762158,Schnittke
+778,ADR069,Music,Schnittke 2,Schnit. 2,-0.0058944938071393595,Schnittke
+779,ADR070,Music,Schnittke 2,Schnit. 2,0.011902772121583952,Schnittke
+780,ADR071,Music,Schnittke 2,Schnit. 2,0.0025897005227414746,Schnittke
+781,AEQ078,Music,Schnittke 2,Schnit. 2,0.026713061994570627,Schnittke
+782,AEQ079,Music,Schnittke 2,Schnit. 2,0.009934646451224742,Schnittke
+783,AEQ080,Music,Schnittke 2,Schnit. 2,0.017578238955748105,Schnittke
+784,AEQ081,Music,Schnittke 2,Schnit. 2,0.013211364635312672,Schnittke
+785,AEQ082,Music,Schnittke 2,Schnit. 2,0.006355296500797413,Schnittke
+786,AEQ083,Music,Schnittke 2,Schnit. 2,0.03712757289189453,Schnittke
+787,AEQ084,Music,Schnittke 2,Schnit. 2,-0.00020925054195093903,Schnittke
+788,AEQ085,Music,Schnittke 2,Schnit. 2,-0.007162970292898065,Schnittke
+789,AEQ087,Music,Schnittke 2,Schnit. 2,-0.00015471831927479115,Schnittke
+790,AEQ088,Music,Schnittke 2,Schnit. 2,0.013878395329592043,Schnittke
+791,AEQ089,Music,Schnittke 2,Schnit. 2,0.0038500223440701507,Schnittke
+792,AER090,Music,Schnittke 2,Schnit. 2,0.004401051573932468,Schnittke
+793,ADQ003,Music,Schnittke 2,Schnit. 2,0.0008011984134144132,Schnittke
+794,ADQ004,Music,Schnittke 3,Schnit. 3,0.016803451304672746,Schnittke
+795,ADQ005,Music,Schnittke 3,Schnit. 3,0.0029494620456654097,Schnittke
+796,ADQ006,Music,Schnittke 3,Schnit. 3,0.00936418231121643,Schnittke
+797,ADQ007,Music,Schnittke 3,Schnit. 3,0.002157716499223896,Schnittke
+798,ADQ008,Music,Schnittke 3,Schnit. 3,0.010487601681030485,Schnittke
+799,ADQ009,Music,Schnittke 3,Schnit. 3,0.006524117980311065,Schnittke
+800,ADQ010,Music,Schnittke 3,Schnit. 3,0.00614458145650921,Schnittke
+801,ADQ011,Music,Schnittke 3,Schnit. 3,0.00025917478274752027,Schnittke
+802,ADQ012,Music,Schnittke 3,Schnit. 3,0.009740964441848177,Schnittke
+803,ADQ013,Music,Schnittke 3,Schnit. 3,3.389207040788939e-05,Schnittke
+804,ADQ014,Music,Schnittke 3,Schnit. 3,0.004229344325413291,Schnittke
+805,ADQ015,Music,Schnittke 3,Schnit. 3,0.012240473193900998,Schnittke
+806,ADQ016,Music,Schnittke 3,Schnit. 3,0.009401660179138512,Schnittke
+807,ADQ018,Music,Schnittke 3,Schnit. 3,0.013596027077102397,Schnittke
+808,ADQ019,Music,Schnittke 3,Schnit. 3,0.010592816136783458,Schnittke
+809,ADQ020,Music,Schnittke 3,Schnit. 3,0.009657018555814837,Schnittke
+810,ADQ021,Music,Schnittke 3,Schnit. 3,0.006634331049624832,Schnittke
+811,ADQ022,Music,Schnittke 3,Schnit. 3,-0.00010146892097124656,Schnittke
+812,ADQ023,Music,Schnittke 3,Schnit. 3,0.0023553294352375645,Schnittke
+813,ADQ024,Music,Schnittke 3,Schnit. 3,0.004899662414084242,Schnittke
+814,ADQ025,Music,Schnittke 3,Schnit. 3,0.009467297608462556,Schnittke
+815,ADQ026,Music,Schnittke 3,Schnit. 3,0.0034139114633632995,Schnittke
+816,ADQ027,Music,Schnittke 3,Schnit. 3,0.01063821075301417,Schnittke
+817,ADQ028,Music,Schnittke 3,Schnit. 3,0.010042589139085198,Schnittke
+818,ADQ029,Music,Schnittke 3,Schnit. 3,0.0003818603479171015,Schnittke
+819,ADQ030,Music,Schnittke 3,Schnit. 3,0.004760229457471805,Schnittke
+820,ADQ031,Music,Schnittke 3,Schnit. 3,0.007149544531085906,Schnittke
+821,ADQ032,Music,Schnittke 3,Schnit. 3,-0.0029454684957069942,Schnittke
+822,ADQ033,Music,Schnittke 3,Schnit. 3,-0.0022006470106794612,Schnittke
+823,ADQ034,Music,Schnittke 3,Schnit. 3,0.00010646182743462517,Schnittke
+824,ADQ035,Music,Schnittke 3,Schnit. 3,0.010066820872260674,Schnittke
+825,ADQ036,Music,Schnittke 3,Schnit. 3,0.004337733972000803,Schnittke
+826,ADQ037,Music,Schnittke 3,Schnit. 3,-0.0016734714836571822,Schnittke
+827,ADQ038,Music,Schnittke 3,Schnit. 3,0.00037889987403979045,Schnittke
+828,ADQ040,Music,Schnittke 3,Schnit. 3,0.0049961532941616895,Schnittke
+829,ADQ041,Music,Schnittke 3,Schnit. 3,0.009785515615693931,Schnittke
+830,ADQ042,Music,Schnittke 3,Schnit. 3,0.002943292979677697,Schnittke
+831,ADQ044,Music,Schnittke 3,Schnit. 3,0.006865713236975723,Schnittke
+832,ADQ046,Music,Schnittke 3,Schnit. 3,0.001391570794402541,Schnittke
+833,ADQ047,Music,Schnittke 3,Schnit. 3,-0.0006401991018312721,Schnittke
+834,ADQ048,Music,Schnittke 3,Schnit. 3,6.603705958983372e-05,Schnittke
+835,ADQ049,Music,Schnittke 3,Schnit. 3,0.017285354970753158,Schnittke
+836,ADQ050,Music,Schnittke 3,Schnit. 3,-0.0023537311834820164,Schnittke
+837,ADQ051,Music,Schnittke 3,Schnit. 3,0.017701493653311282,Schnittke
+838,ADQ052,Music,Schnittke 3,Schnit. 3,0.004670154842551224,Schnittke
+839,ADQ053,Music,Schnittke 3,Schnit. 3,0.008399831540522481,Schnittke
+840,ADQ054,Music,Schnittke 3,Schnit. 3,0.005823753912664497,Schnittke
+841,ADQ055,Music,Schnittke 3,Schnit. 3,0.009977899227903165,Schnittke
+842,ADQ056,Music,Schnittke 3,Schnit. 3,0.015803522929366865,Schnittke
+843,ADQ057,Music,Schnittke 3,Schnit. 3,0.004841246892222169,Schnittke
+844,ADQ058,Music,Schnittke 3,Schnit. 3,0.007189126887895757,Schnittke
+845,ADQ059,Music,Schnittke 3,Schnit. 3,-0.0014986321510257487,Schnittke
+846,ADQ060,Music,Schnittke 3,Schnit. 3,0.014053082720719774,Schnittke
+847,ADQ061,Music,Schnittke 3,Schnit. 3,0.0032794457475167284,Schnittke
+848,ADQ062,Music,Schnittke 3,Schnit. 3,0.009436714156649737,Schnittke
+849,ADQ063,Music,Schnittke 3,Schnit. 3,0.006304671379867945,Schnittke
+850,ADQ065,Music,Schnittke 3,Schnit. 3,-0.00023222130135861012,Schnittke
+851,ADQ066,Music,Schnittke 3,Schnit. 3,0.015426400442575884,Schnittke
+852,ADR067,Music,Schnittke 3,Schnit. 3,0.002508124157610564,Schnittke
+853,ADR068,Music,Schnittke 3,Schnit. 3,0.00587681014331518,Schnittke
+854,ADR069,Music,Schnittke 3,Schnit. 3,0.002971480362001031,Schnittke
+855,ADR070,Music,Schnittke 3,Schnit. 3,-0.0008583819554133387,Schnittke
+856,ADR071,Music,Schnittke 3,Schnit. 3,0.005934613189390478,Schnittke
+857,AEQ078,Music,Schnittke 3,Schnit. 3,0.02852481976506704,Schnittke
+858,AEQ079,Music,Schnittke 3,Schnit. 3,0.0031092050094806757,Schnittke
+859,AEQ080,Music,Schnittke 3,Schnit. 3,0.0036631944415881435,Schnittke
+860,AEQ081,Music,Schnittke 3,Schnit. 3,0.01752253927861744,Schnittke
+861,AEQ082,Music,Schnittke 3,Schnit. 3,0.010276021449311811,Schnittke
+862,AEQ083,Music,Schnittke 3,Schnit. 3,0.007447009462293362,Schnittke
+863,AEQ084,Music,Schnittke 3,Schnit. 3,0.007018336510166673,Schnittke
+864,AEQ085,Music,Schnittke 3,Schnit. 3,0.011402578244642513,Schnittke
+865,AEQ087,Music,Schnittke 3,Schnit. 3,0.009322727593083217,Schnittke
+866,AEQ088,Music,Schnittke 3,Schnit. 3,0.0030962666914626426,Schnittke
+867,AEQ089,Music,Schnittke 3,Schnit. 3,0.005268536939024003,Schnittke
+868,AER090,Music,Schnittke 3,Schnit. 3,0.0049129017689422865,Schnittke
+869,ADQ003,Music,Schnittke 3,Schnit. 3,0.003604852373602001,Schnittke
+870,ADQ004,Applause,Clapping for Schnittke,Claps 5,0.03968879278438979,Clapping
+871,ADQ005,Applause,Clapping for Schnittke,Claps 5,0.10624309942449878,Clapping
+872,ADQ006,Applause,Clapping for Schnittke,Claps 5,0.14277881490618258,Clapping
+873,ADQ007,Applause,Clapping for Schnittke,Claps 5,0.18314668383191768,Clapping
+874,ADQ008,Applause,Clapping for Schnittke,Claps 5,0.12712225160581786,Clapping
+875,ADQ009,Applause,Clapping for Schnittke,Claps 5,0.13954468486975083,Clapping
+876,ADQ010,Applause,Clapping for Schnittke,Claps 5,0.2006352762525869,Clapping
+877,ADQ011,Applause,Clapping for Schnittke,Claps 5,0.11483337991900036,Clapping
+878,ADQ012,Applause,Clapping for Schnittke,Claps 5,0.18532452270371733,Clapping
+879,ADQ013,Applause,Clapping for Schnittke,Claps 5,0.1313648812435291,Clapping
+880,ADQ014,Applause,Clapping for Schnittke,Claps 5,0.2034029569702357,Clapping
+881,ADQ015,Applause,Clapping for Schnittke,Claps 5,0.09351229752780754,Clapping
+882,ADQ016,Applause,Clapping for Schnittke,Claps 5,0.1705530683307052,Clapping
+883,ADQ018,Applause,Clapping for Schnittke,Claps 5,0.06672622504706346,Clapping
+884,ADQ019,Applause,Clapping for Schnittke,Claps 5,0.14698412829430493,Clapping
+885,ADQ020,Applause,Clapping for Schnittke,Claps 5,0.05705573301274503,Clapping
+886,ADQ022,Applause,Clapping for Schnittke,Claps 5,0.1448363789527127,Clapping
+887,ADQ023,Applause,Clapping for Schnittke,Claps 5,0.18191419663702005,Clapping
+888,ADQ024,Applause,Clapping for Schnittke,Claps 5,0.23075074747129437,Clapping
+889,ADQ025,Applause,Clapping for Schnittke,Claps 5,0.19998318362132086,Clapping
+890,ADQ027,Applause,Clapping for Schnittke,Claps 5,0.012309887115174872,Clapping
+891,ADQ028,Applause,Clapping for Schnittke,Claps 5,0.15666043065865828,Clapping
+892,ADQ029,Applause,Clapping for Schnittke,Claps 5,0.1602660662898833,Clapping
+893,ADQ030,Applause,Clapping for Schnittke,Claps 5,0.08984582636816885,Clapping
+894,ADQ031,Applause,Clapping for Schnittke,Claps 5,0.06634705009587984,Clapping
+895,ADQ032,Applause,Clapping for Schnittke,Claps 5,0.14321777158349017,Clapping
+896,ADQ033,Applause,Clapping for Schnittke,Claps 5,0.22606182162118865,Clapping
+897,ADQ034,Applause,Clapping for Schnittke,Claps 5,0.09299849627843285,Clapping
+898,ADQ035,Applause,Clapping for Schnittke,Claps 5,0.1924166229774503,Clapping
+899,ADQ036,Applause,Clapping for Schnittke,Claps 5,0.10560978150535341,Clapping
+900,ADQ037,Applause,Clapping for Schnittke,Claps 5,0.1694026941785442,Clapping
+901,ADQ038,Applause,Clapping for Schnittke,Claps 5,0.1344484917106209,Clapping
+902,ADQ040,Applause,Clapping for Schnittke,Claps 5,0.07901694250044175,Clapping
+903,ADQ041,Applause,Clapping for Schnittke,Claps 5,0.11996446625829447,Clapping
+904,ADQ042,Applause,Clapping for Schnittke,Claps 5,0.0341621247446949,Clapping
+905,ADQ044,Applause,Clapping for Schnittke,Claps 5,0.17830490497266607,Clapping
+906,ADQ046,Applause,Clapping for Schnittke,Claps 5,0.15281222788757023,Clapping
+907,ADQ047,Applause,Clapping for Schnittke,Claps 5,0.11197465194590109,Clapping
+908,ADQ048,Applause,Clapping for Schnittke,Claps 5,0.12543492359330838,Clapping
+909,ADQ049,Applause,Clapping for Schnittke,Claps 5,0.19256642678884348,Clapping
+910,ADQ050,Applause,Clapping for Schnittke,Claps 5,0.026341219244024838,Clapping
+911,ADQ051,Applause,Clapping for Schnittke,Claps 5,0.2199955308720769,Clapping
+912,ADQ052,Applause,Clapping for Schnittke,Claps 5,0.10840111389094574,Clapping
+913,ADQ053,Applause,Clapping for Schnittke,Claps 5,0.1596058345223229,Clapping
+914,ADQ054,Applause,Clapping for Schnittke,Claps 5,0.16104130853255452,Clapping
+915,ADQ055,Applause,Clapping for Schnittke,Claps 5,0.11665068492197511,Clapping
+916,ADQ056,Applause,Clapping for Schnittke,Claps 5,0.24234385624914967,Clapping
+917,ADQ057,Applause,Clapping for Schnittke,Claps 5,0.10416549444414193,Clapping
+918,ADQ058,Applause,Clapping for Schnittke,Claps 5,0.1363472356129245,Clapping
+919,ADQ059,Applause,Clapping for Schnittke,Claps 5,0.11519610761054264,Clapping
+920,ADQ060,Applause,Clapping for Schnittke,Claps 5,0.12209370310978757,Clapping
+921,ADQ061,Applause,Clapping for Schnittke,Claps 5,0.1459659172428667,Clapping
+922,ADQ062,Applause,Clapping for Schnittke,Claps 5,0.10986074402600746,Clapping
+923,ADQ063,Applause,Clapping for Schnittke,Claps 5,0.19531215322000964,Clapping
+924,ADQ065,Applause,Clapping for Schnittke,Claps 5,0.24020989377988297,Clapping
+925,ADQ066,Applause,Clapping for Schnittke,Claps 5,0.04241252536178509,Clapping
+926,ADR067,Applause,Clapping for Schnittke,Claps 5,0.171941803985535,Clapping
+927,ADR068,Applause,Clapping for Schnittke,Claps 5,0.14779992585158094,Clapping
+928,ADR069,Applause,Clapping for Schnittke,Claps 5,0.15459445073089356,Clapping
+929,ADR070,Applause,Clapping for Schnittke,Claps 5,0.1325939541189654,Clapping
+930,ADR071,Applause,Clapping for Schnittke,Claps 5,0.0918806846666889,Clapping
+931,AEQ078,Applause,Clapping for Schnittke,Claps 5,0.14188596890988714,Clapping
+932,AEQ079,Applause,Clapping for Schnittke,Claps 5,0.1370688826998283,Clapping
+933,AEQ080,Applause,Clapping for Schnittke,Claps 5,0.09796934209716648,Clapping
+934,AEQ081,Applause,Clapping for Schnittke,Claps 5,0.1754840842834818,Clapping
+935,AEQ082,Applause,Clapping for Schnittke,Claps 5,0.19735067809166307,Clapping
+936,AEQ083,Applause,Clapping for Schnittke,Claps 5,0.15845473891276307,Clapping
+937,AEQ084,Applause,Clapping for Schnittke,Claps 5,0.1599753725489036,Clapping
+938,AEQ085,Applause,Clapping for Schnittke,Claps 5,0.11719937165628433,Clapping
+939,AEQ087,Applause,Clapping for Schnittke,Claps 5,0.19451091154174904,Clapping
+940,AEQ088,Applause,Clapping for Schnittke,Claps 5,0.11496716704274557,Clapping
+941,AEQ089,Applause,Clapping for Schnittke,Claps 5,0.07857289863882055,Clapping
+942,AER090,Applause,Clapping for Schnittke,Claps 5,0.05760179259636558,Clapping
+943,ADQ003,Applause,Clapping for Schnittke,Claps 5,0.181509391264755,Clapping
+944,ADQ009,Survey,Survey for Schnittke,Survey 2,0.03630412456505933,Survey
+945,ADQ011,Survey,Survey for Schnittke,Survey 2,0.019168100048839058,Survey
+946,ADQ012,Survey,Survey for Schnittke,Survey 2,0.05202764428516414,Survey
+947,ADQ013,Survey,Survey for Schnittke,Survey 2,-0.025802451638672425,Survey
+948,ADQ014,Survey,Survey for Schnittke,Survey 2,-0.023793181562586,Survey
+949,ADQ015,Survey,Survey for Schnittke,Survey 2,-0.013328643859007715,Survey
+950,ADQ019,Survey,Survey for Schnittke,Survey 2,0.0033066847353276575,Survey
+951,ADQ022,Survey,Survey for Schnittke,Survey 2,0.049108344238529784,Survey
+952,ADQ023,Survey,Survey for Schnittke,Survey 2,-0.04381529893208361,Survey
+953,ADQ024,Survey,Survey for Schnittke,Survey 2,0.05040148971497606,Survey
+954,ADQ025,Survey,Survey for Schnittke,Survey 2,0.008992994337112228,Survey
+955,ADQ028,Survey,Survey for Schnittke,Survey 2,0.02700805196462192,Survey
+956,ADQ029,Survey,Survey for Schnittke,Survey 2,0.02342128071031041,Survey
+957,ADQ031,Survey,Survey for Schnittke,Survey 2,0.030026950137744438,Survey
+958,ADQ032,Survey,Survey for Schnittke,Survey 2,0.014723468353494524,Survey
+959,ADQ033,Survey,Survey for Schnittke,Survey 2,0.031004524373033773,Survey
+960,ADQ034,Survey,Survey for Schnittke,Survey 2,-0.022946646892743894,Survey
+961,ADQ035,Survey,Survey for Schnittke,Survey 2,0.07817355483567573,Survey
+962,ADQ037,Survey,Survey for Schnittke,Survey 2,0.04281501483118607,Survey
+963,ADQ038,Survey,Survey for Schnittke,Survey 2,0.01817085930577733,Survey
+964,ADQ040,Survey,Survey for Schnittke,Survey 2,-0.01868168060878564,Survey
+965,ADQ041,Survey,Survey for Schnittke,Survey 2,0.043900240840904825,Survey
+966,ADQ042,Survey,Survey for Schnittke,Survey 2,0.013185706092831052,Survey
+967,ADQ044,Survey,Survey for Schnittke,Survey 2,-0.010555871008276752,Survey
+968,ADQ047,Survey,Survey for Schnittke,Survey 2,0.03202452428902023,Survey
+969,ADQ048,Survey,Survey for Schnittke,Survey 2,0.04816064850217465,Survey
+970,ADQ049,Survey,Survey for Schnittke,Survey 2,-0.06135439555601984,Survey
+971,ADQ050,Survey,Survey for Schnittke,Survey 2,0.034808754011863216,Survey
+972,ADQ051,Survey,Survey for Schnittke,Survey 2,0.022534030155206414,Survey
+973,ADQ052,Survey,Survey for Schnittke,Survey 2,0.08453430475696246,Survey
+974,ADQ053,Survey,Survey for Schnittke,Survey 2,0.09734794796028325,Survey
+975,ADQ055,Survey,Survey for Schnittke,Survey 2,0.01365279909935975,Survey
+976,ADQ057,Survey,Survey for Schnittke,Survey 2,0.05751701675045278,Survey
+977,ADQ058,Survey,Survey for Schnittke,Survey 2,0.019983523975961176,Survey
+978,ADQ059,Survey,Survey for Schnittke,Survey 2,0.005412154635293681,Survey
+979,ADQ061,Survey,Survey for Schnittke,Survey 2,0.07275910079121045,Survey
+980,ADQ062,Survey,Survey for Schnittke,Survey 2,0.04691778365500264,Survey
+981,ADQ063,Survey,Survey for Schnittke,Survey 2,0.061718204077718185,Survey
+982,ADQ066,Survey,Survey for Schnittke,Survey 2,0.028326478302506942,Survey
+983,ADR067,Survey,Survey for Schnittke,Survey 2,0.016757781775340982,Survey
+984,ADR068,Survey,Survey for Schnittke,Survey 2,0.09409065069860671,Survey
+985,ADR069,Survey,Survey for Schnittke,Survey 2,0.08782762999970062,Survey
+986,ADR070,Survey,Survey for Schnittke,Survey 2,-0.019290160456784583,Survey
+987,ADR071,Survey,Survey for Schnittke,Survey 2,0.040129487500710916,Survey
+988,AEQ078,Survey,Survey for Schnittke,Survey 2,0.031348608895411426,Survey
+989,AEQ080,Survey,Survey for Schnittke,Survey 2,0.04260775503450495,Survey
+990,AEQ087,Survey,Survey for Schnittke,Survey 2,0.011126838001828607,Survey
+991,AEQ089,Survey,Survey for Schnittke,Survey 2,0.09212232006473177,Survey
+992,AER090,Survey,Survey for Schnittke,Survey 2,0.01391794829573884,Survey
+993,ADQ006,Survey,Survey for Schnittke,Survey 2,0.06074588811480851,Survey
+994,ADQ003,Speech,Speech MC4,Speech 7,0.07055588341730364,Speech
+995,ADQ004,Speech,Speech MC4,Speech 7,0.04319350209601158,Speech
+996,ADQ005,Speech,Speech MC4,Speech 7,-0.0010722840029222772,Speech
+997,ADQ006,Speech,Speech MC4,Speech 7,0.03574174797092279,Speech
+998,ADQ007,Speech,Speech MC4,Speech 7,0.03557106742760788,Speech
+999,ADQ009,Speech,Speech MC4,Speech 7,0.030709502636824003,Speech
+1000,ADQ011,Speech,Speech MC4,Speech 7,0.007883656489770671,Speech
+1001,ADQ012,Speech,Speech MC4,Speech 7,0.023119486711195233,Speech
+1002,ADQ013,Speech,Speech MC4,Speech 7,0.00524264477157131,Speech
+1003,ADQ014,Speech,Speech MC4,Speech 7,0.03935589703979332,Speech
+1004,ADQ015,Speech,Speech MC4,Speech 7,0.006933360191118513,Speech
+1005,ADQ017,Speech,Speech MC4,Speech 7,0.045894612500713174,Speech
+1006,ADQ019,Speech,Speech MC4,Speech 7,0.014988378571838261,Speech
+1007,ADQ020,Speech,Speech MC4,Speech 7,0.04472754011437359,Speech
+1008,ADQ022,Speech,Speech MC4,Speech 7,0.03149047677994011,Speech
+1009,ADQ023,Speech,Speech MC4,Speech 7,-0.029848703318620332,Speech
+1010,ADQ025,Speech,Speech MC4,Speech 7,0.04284671464791132,Speech
+1011,ADQ026,Speech,Speech MC4,Speech 7,0.05423985922685727,Speech
+1012,ADQ027,Speech,Speech MC4,Speech 7,0.0191706060605381,Speech
+1013,ADQ028,Speech,Speech MC4,Speech 7,0.05281244959234613,Speech
+1014,ADQ029,Speech,Speech MC4,Speech 7,0.05035703905646413,Speech
+1015,ADQ030,Speech,Speech MC4,Speech 7,0.03017793487613084,Speech
+1016,ADQ031,Speech,Speech MC4,Speech 7,0.06499584167154646,Speech
+1017,ADQ033,Speech,Speech MC4,Speech 7,0.02596244896460799,Speech
+1018,ADQ034,Speech,Speech MC4,Speech 7,0.04296768079750813,Speech
+1019,ADQ035,Speech,Speech MC4,Speech 7,0.012894945069187296,Speech
+1020,ADQ036,Speech,Speech MC4,Speech 7,0.059553241123173825,Speech
+1021,ADQ037,Speech,Speech MC4,Speech 7,0.06617079112114592,Speech
+1022,ADQ038,Speech,Speech MC4,Speech 7,0.043893620633219076,Speech
+1023,ADQ040,Speech,Speech MC4,Speech 7,0.02648181757274766,Speech
+1024,ADQ041,Speech,Speech MC4,Speech 7,0.03383889086808715,Speech
+1025,ADQ042,Speech,Speech MC4,Speech 7,0.041094865585553135,Speech
+1026,ADQ043,Speech,Speech MC4,Speech 7,0.0464510908181665,Speech
+1027,ADQ044,Speech,Speech MC4,Speech 7,0.03740611650621995,Speech
+1028,ADQ046,Speech,Speech MC4,Speech 7,0.05922921293236261,Speech
+1029,ADQ047,Speech,Speech MC4,Speech 7,0.02998237850991204,Speech
+1030,ADQ048,Speech,Speech MC4,Speech 7,-0.0015138695718269794,Speech
+1031,ADQ049,Speech,Speech MC4,Speech 7,0.03390528705376151,Speech
+1032,ADQ050,Speech,Speech MC4,Speech 7,0.031164927217562942,Speech
+1033,ADQ051,Speech,Speech MC4,Speech 7,0.04604315889496061,Speech
+1034,ADQ052,Speech,Speech MC4,Speech 7,0.02386549305597061,Speech
+1035,ADQ053,Speech,Speech MC4,Speech 7,0.04220639362657178,Speech
+1036,ADQ054,Speech,Speech MC4,Speech 7,0.009845369520242822,Speech
+1037,ADQ055,Speech,Speech MC4,Speech 7,0.06067796635905433,Speech
+1038,ADQ056,Speech,Speech MC4,Speech 7,0.09106563531360581,Speech
+1039,ADQ057,Speech,Speech MC4,Speech 7,-0.0034620161385593767,Speech
+1040,ADQ058,Speech,Speech MC4,Speech 7,0.06035931540553795,Speech
+1041,ADQ061,Speech,Speech MC4,Speech 7,0.0028730227628137282,Speech
+1042,ADQ062,Speech,Speech MC4,Speech 7,0.04191663895729353,Speech
+1043,ADQ063,Speech,Speech MC4,Speech 7,-0.05056632892587484,Speech
+1044,ADQ064,Speech,Speech MC4,Speech 7,0.07621310653227342,Speech
+1045,ADR067,Speech,Speech MC4,Speech 7,0.025661529231915725,Speech
+1046,ADR068,Speech,Speech MC4,Speech 7,0.03518140623028878,Speech
+1047,ADR069,Speech,Speech MC4,Speech 7,0.08395294105579341,Speech
+1048,ADR070,Speech,Speech MC4,Speech 7,0.051866765950343285,Speech
+1049,ADR071,Speech,Speech MC4,Speech 7,0.023484232190756068,Speech
+1050,AEQ079,Speech,Speech MC4,Speech 7,0.036861786890900514,Speech
+1051,AEQ080,Speech,Speech MC4,Speech 7,0.05705954475818805,Speech
+1052,AEQ081,Speech,Speech MC4,Speech 7,0.0294050426017588,Speech
+1053,AEQ082,Speech,Speech MC4,Speech 7,0.03606819627727969,Speech
+1054,AEQ085,Speech,Speech MC4,Speech 7,0.0512730524879924,Speech
+1055,AEQ087,Speech,Speech MC4,Speech 7,0.039889354482520366,Speech
+1056,AEQ088,Speech,Speech MC4,Speech 7,0.006444786255479642,Speech
+1057,AEQ089,Speech,Speech MC4,Speech 7,0.03713996296044198,Speech
+1058,AER090,Speech,Speech MC4,Speech 7,0.046312158032754555,Speech
+1059,ADQ001,Speech,Speech MC4,Speech 7,0.04903560215126205,Speech
+1060,ADQ002,Music,Bach,Bach,0.0018783463489555159,Bach
+1061,ADQ003,Music,Bach,Bach,-0.001427724045376721,Bach
+1062,ADQ004,Music,Bach,Bach,0.0021016125871266126,Bach
+1063,ADQ005,Music,Bach,Bach,0.006831434336043903,Bach
+1064,ADQ006,Music,Bach,Bach,-0.0013784780369893882,Bach
+1065,ADQ007,Music,Bach,Bach,0.004762277280936273,Bach
+1066,ADQ008,Music,Bach,Bach,0.005423740412800251,Bach
+1067,ADQ009,Music,Bach,Bach,0.0021098994673730683,Bach
+1068,ADQ010,Music,Bach,Bach,0.006147218596892801,Bach
+1069,ADQ011,Music,Bach,Bach,0.0044092993920222395,Bach
+1070,ADQ012,Music,Bach,Bach,0.004093586192359068,Bach
+1071,ADQ013,Music,Bach,Bach,0.0011225418866598902,Bach
+1072,ADQ014,Music,Bach,Bach,0.0032027011212333056,Bach
+1073,ADQ015,Music,Bach,Bach,8.211710335622465e-05,Bach
+1074,ADQ016,Music,Bach,Bach,0.006903319188653871,Bach
+1075,ADQ017,Music,Bach,Bach,0.0033981024528562612,Bach
+1076,ADQ018,Music,Bach,Bach,0.006822193239659662,Bach
+1077,ADQ019,Music,Bach,Bach,-0.0008733736206050479,Bach
+1078,ADQ020,Music,Bach,Bach,-0.001128327865497,Bach
+1079,ADQ022,Music,Bach,Bach,2.3606728813242796e-05,Bach
+1080,ADQ023,Music,Bach,Bach,0.00322967144267504,Bach
+1081,ADQ024,Music,Bach,Bach,0.005653894522595371,Bach
+1082,ADQ025,Music,Bach,Bach,-0.002306871428794661,Bach
+1083,ADQ026,Music,Bach,Bach,0.006623320577874176,Bach
+1084,ADQ027,Music,Bach,Bach,0.007067748963553661,Bach
+1085,ADQ028,Music,Bach,Bach,0.0052632039568559445,Bach
+1086,ADQ029,Music,Bach,Bach,0.00014216493857103517,Bach
+1087,ADQ030,Music,Bach,Bach,-0.0021652509367194365,Bach
+1088,ADQ031,Music,Bach,Bach,0.003144492169125249,Bach
+1089,ADQ033,Music,Bach,Bach,-0.00036020055850508195,Bach
+1090,ADQ034,Music,Bach,Bach,0.0027857788952455956,Bach
+1091,ADQ035,Music,Bach,Bach,0.0025341196776589997,Bach
+1092,ADQ036,Music,Bach,Bach,0.007314015508030073,Bach
+1093,ADQ037,Music,Bach,Bach,-7.898726215496512e-05,Bach
+1094,ADQ038,Music,Bach,Bach,0.009536028160203066,Bach
+1095,ADQ040,Music,Bach,Bach,0.001274572443754634,Bach
+1096,ADQ041,Music,Bach,Bach,0.012603791230551744,Bach
+1097,ADQ042,Music,Bach,Bach,0.0006340588804025128,Bach
+1098,ADQ043,Music,Bach,Bach,0.0031630322751128675,Bach
+1099,ADQ044,Music,Bach,Bach,0.0029878927256736386,Bach
+1100,ADQ046,Music,Bach,Bach,0.0017893397918884973,Bach
+1101,ADQ047,Music,Bach,Bach,-0.0017461132959561444,Bach
+1102,ADQ048,Music,Bach,Bach,0.0054559353780315924,Bach
+1103,ADQ049,Music,Bach,Bach,0.01065380980936122,Bach
+1104,ADQ050,Music,Bach,Bach,0.0039311224228178,Bach
+1105,ADQ051,Music,Bach,Bach,0.0016778179501380512,Bach
+1106,ADQ052,Music,Bach,Bach,0.0049854299662997785,Bach
+1107,ADQ053,Music,Bach,Bach,0.0026803126225242477,Bach
+1108,ADQ054,Music,Bach,Bach,0.0007515135644283297,Bach
+1109,ADQ055,Music,Bach,Bach,0.007284973989743006,Bach
+1110,ADQ056,Music,Bach,Bach,0.007940833531698556,Bach
+1111,ADQ057,Music,Bach,Bach,0.000913606118553824,Bach
+1112,ADQ058,Music,Bach,Bach,0.004484338948970148,Bach
+1113,ADQ059,Music,Bach,Bach,-0.0035959754152292776,Bach
+1114,ADQ060,Music,Bach,Bach,0.006160654169651963,Bach
+1115,ADQ061,Music,Bach,Bach,0.005643468185270433,Bach
+1116,ADQ062,Music,Bach,Bach,-0.001487988503564044,Bach
+1117,ADQ063,Music,Bach,Bach,0.008659572539695192,Bach
+1118,ADQ064,Music,Bach,Bach,-0.0005521995730079496,Bach
+1119,ADQ066,Music,Bach,Bach,0.004991002427023813,Bach
+1120,ADR067,Music,Bach,Bach,0.0006994072047537622,Bach
+1121,ADR068,Music,Bach,Bach,0.00490760922168467,Bach
+1122,ADR069,Music,Bach,Bach,0.0009182011916877564,Bach
+1123,ADR070,Music,Bach,Bach,-0.004951662025063721,Bach
+1124,ADR071,Music,Bach,Bach,0.0019015004596108463,Bach
+1125,AEQ079,Music,Bach,Bach,-0.0004262166303909453,Bach
+1126,AEQ080,Music,Bach,Bach,0.007993910095725733,Bach
+1127,AEQ081,Music,Bach,Bach,0.0033183993159375405,Bach
+1128,AEQ082,Music,Bach,Bach,0.0007095748157202666,Bach
+1129,AEQ083,Music,Bach,Bach,0.004735572288396323,Bach
+1130,AEQ085,Music,Bach,Bach,0.005062893589359432,Bach
+1131,AEQ086,Music,Bach,Bach,-0.0013441841288104213,Bach
+1132,AEQ087,Music,Bach,Bach,-0.002626484623277143,Bach
+1133,AEQ088,Music,Bach,Bach,0.001922273788215282,Bach
+1134,AEQ089,Music,Bach,Bach,-0.0013701368808278014,Bach
+1135,AER090,Music,Bach,Bach,0.00311246348062763,Bach
+1136,ADQ001,Music,Bach,Bach,-0.004067967630772987,Bach
+1137,ADQ002,Survey,Survey for Bach,Survey 3,0.03540696638612198,Survey
+1138,ADQ003,Survey,Survey for Bach,Survey 3,0.06547029828948067,Survey
+1139,ADQ004,Survey,Survey for Bach,Survey 3,0.04815255730038959,Survey
+1140,ADQ005,Survey,Survey for Bach,Survey 3,0.086495868686352,Survey
+1141,ADQ006,Survey,Survey for Bach,Survey 3,0.13011403496655374,Survey
+1142,ADQ007,Survey,Survey for Bach,Survey 3,0.06737293413278382,Survey
+1143,ADQ008,Survey,Survey for Bach,Survey 3,0.12279195035946566,Survey
+1144,ADQ009,Survey,Survey for Bach,Survey 3,0.09578239025815277,Survey
+1145,ADQ010,Survey,Survey for Bach,Survey 3,0.06848070014388029,Survey
+1146,ADQ011,Survey,Survey for Bach,Survey 3,0.03947546837340012,Survey
+1147,ADQ012,Survey,Survey for Bach,Survey 3,0.039307032105252736,Survey
+1148,ADQ013,Survey,Survey for Bach,Survey 3,0.05158458758567856,Survey
+1149,ADQ014,Survey,Survey for Bach,Survey 3,0.0924187251820538,Survey
+1150,ADQ015,Survey,Survey for Bach,Survey 3,0.03479830918648512,Survey
+1151,ADQ016,Survey,Survey for Bach,Survey 3,0.11332962176884194,Survey
+1152,ADQ017,Survey,Survey for Bach,Survey 3,0.08147898270319888,Survey
+1153,ADQ018,Survey,Survey for Bach,Survey 3,0.032625637861652214,Survey
+1154,ADQ019,Survey,Survey for Bach,Survey 3,0.05266998261676318,Survey
+1155,ADQ020,Survey,Survey for Bach,Survey 3,0.035258381593781044,Survey
+1156,ADQ022,Survey,Survey for Bach,Survey 3,0.1559580664031106,Survey
+1157,ADQ023,Survey,Survey for Bach,Survey 3,0.0769963421296105,Survey
+1158,ADQ024,Survey,Survey for Bach,Survey 3,0.06136076404333917,Survey
+1159,ADQ025,Survey,Survey for Bach,Survey 3,0.09853706439014125,Survey
+1160,ADQ026,Survey,Survey for Bach,Survey 3,0.1721430096971854,Survey
+1161,ADQ027,Survey,Survey for Bach,Survey 3,0.06253690417312498,Survey
+1162,ADQ028,Survey,Survey for Bach,Survey 3,0.046874442715490156,Survey
+1163,ADQ029,Survey,Survey for Bach,Survey 3,-0.051604001958020326,Survey
+1164,ADQ030,Survey,Survey for Bach,Survey 3,0.021737676789277297,Survey
+1165,ADQ031,Survey,Survey for Bach,Survey 3,0.11085928500028466,Survey
+1166,ADQ033,Survey,Survey for Bach,Survey 3,0.10379448031105012,Survey
+1167,ADQ034,Survey,Survey for Bach,Survey 3,0.1000857671432206,Survey
+1168,ADQ035,Survey,Survey for Bach,Survey 3,0.0897662909069037,Survey
+1169,ADQ036,Survey,Survey for Bach,Survey 3,0.08727032083926811,Survey
+1170,ADQ037,Survey,Survey for Bach,Survey 3,0.10589787108479608,Survey
+1171,ADQ038,Survey,Survey for Bach,Survey 3,0.02751048478502513,Survey
+1172,ADQ040,Survey,Survey for Bach,Survey 3,0.019629878898934087,Survey
+1173,ADQ041,Survey,Survey for Bach,Survey 3,0.07382597674659937,Survey
+1174,ADQ042,Survey,Survey for Bach,Survey 3,0.15976881388759684,Survey
+1175,ADQ043,Survey,Survey for Bach,Survey 3,0.040898668420835116,Survey
+1176,ADQ044,Survey,Survey for Bach,Survey 3,0.04883719415984657,Survey
+1177,ADQ045,Survey,Survey for Bach,Survey 3,0.1377620115292851,Survey
+1178,ADQ046,Survey,Survey for Bach,Survey 3,0.06221793693427006,Survey
+1179,ADQ047,Survey,Survey for Bach,Survey 3,0.14101023996262946,Survey
+1180,ADQ048,Survey,Survey for Bach,Survey 3,0.06939030023670602,Survey
+1181,ADQ049,Survey,Survey for Bach,Survey 3,0.07730626797403146,Survey
+1182,ADQ050,Survey,Survey for Bach,Survey 3,-0.026500241315718844,Survey
+1183,ADQ051,Survey,Survey for Bach,Survey 3,0.024801001179535615,Survey
+1184,ADQ052,Survey,Survey for Bach,Survey 3,0.023304670333486193,Survey
+1185,ADQ053,Survey,Survey for Bach,Survey 3,0.07816728767456614,Survey
+1186,ADQ054,Survey,Survey for Bach,Survey 3,0.13422056700903356,Survey
+1187,ADQ055,Survey,Survey for Bach,Survey 3,0.08572107494031742,Survey
+1188,ADQ056,Survey,Survey for Bach,Survey 3,0.014632627959670148,Survey
+1189,ADQ057,Survey,Survey for Bach,Survey 3,0.06701625545681723,Survey
+1190,ADQ058,Survey,Survey for Bach,Survey 3,0.03129968772696275,Survey
+1191,ADQ059,Survey,Survey for Bach,Survey 3,0.02856918206418192,Survey
+1192,ADQ060,Survey,Survey for Bach,Survey 3,0.12148340114565136,Survey
+1193,ADQ061,Survey,Survey for Bach,Survey 3,0.16307214167272513,Survey
+1194,ADQ062,Survey,Survey for Bach,Survey 3,0.008561116634875346,Survey
+1195,ADQ063,Survey,Survey for Bach,Survey 3,0.05071266568419622,Survey
+1196,ADQ064,Survey,Survey for Bach,Survey 3,0.037215403965934056,Survey
+1197,ADR067,Survey,Survey for Bach,Survey 3,0.030758234878385568,Survey
+1198,ADR068,Survey,Survey for Bach,Survey 3,0.04682639609274406,Survey
+1199,ADR069,Survey,Survey for Bach,Survey 3,-0.05450563110732358,Survey
+1200,ADR070,Survey,Survey for Bach,Survey 3,0.05529105407003284,Survey
+1201,ADR071,Survey,Survey for Bach,Survey 3,0.006297334471453277,Survey
+1202,AEQ079,Survey,Survey for Bach,Survey 3,0.10775334573018383,Survey
+1203,AEQ080,Survey,Survey for Bach,Survey 3,0.1007011969292475,Survey
+1204,AEQ081,Survey,Survey for Bach,Survey 3,-0.022626612187614414,Survey
+1205,AEQ082,Survey,Survey for Bach,Survey 3,0.045484374864661226,Survey
+1206,AEQ083,Survey,Survey for Bach,Survey 3,0.15979803928440328,Survey
+1207,AEQ085,Survey,Survey for Bach,Survey 3,0.11633489014051035,Survey
+1208,AEQ086,Survey,Survey for Bach,Survey 3,0.07059494557320543,Survey
+1209,AEQ087,Survey,Survey for Bach,Survey 3,0.018746867022886724,Survey
+1210,AEQ088,Survey,Survey for Bach,Survey 3,0.048817092156850275,Survey
+1211,AEQ089,Survey,Survey for Bach,Survey 3,0.06109852647952043,Survey
+1212,AER090,Survey,Survey for Bach,Survey 3,0.06790837014028119,Survey
+1213,ADQ001,Survey,Survey for Bach,Survey 3,0.03514114386135161,Survey
+1214,ADQ002,Music,Folk 1,Folk 1,0.018625404791833312,Folk
+1215,ADQ003,Music,Folk 1,Folk 1,0.011155154849719077,Folk
+1216,ADQ004,Music,Folk 1,Folk 1,0.031716726993494884,Folk
+1217,ADQ005,Music,Folk 1,Folk 1,0.019462874369046607,Folk
+1218,ADQ006,Music,Folk 1,Folk 1,0.01609158968965142,Folk
+1219,ADQ007,Music,Folk 1,Folk 1,0.030006624537476472,Folk
+1220,ADQ008,Music,Folk 1,Folk 1,-0.001025250158047661,Folk
+1221,ADQ009,Music,Folk 1,Folk 1,0.018007054121425455,Folk
+1222,ADQ010,Music,Folk 1,Folk 1,0.03909928171981537,Folk
+1223,ADQ011,Music,Folk 1,Folk 1,0.0040583575395554605,Folk
+1224,ADQ012,Music,Folk 1,Folk 1,0.012897391598089347,Folk
+1225,ADQ013,Music,Folk 1,Folk 1,-0.0011601482881725804,Folk
+1226,ADQ014,Music,Folk 1,Folk 1,0.059543113858344175,Folk
+1227,ADQ015,Music,Folk 1,Folk 1,-0.011862325862332025,Folk
+1228,ADQ016,Music,Folk 1,Folk 1,0.012400212936541635,Folk
+1229,ADQ017,Music,Folk 1,Folk 1,-0.002729043422528058,Folk
+1230,ADQ018,Music,Folk 1,Folk 1,0.03625910891212703,Folk
+1231,ADQ019,Music,Folk 1,Folk 1,0.010573868881526895,Folk
+1232,ADQ020,Music,Folk 1,Folk 1,0.0145044944371313,Folk
+1233,ADQ022,Music,Folk 1,Folk 1,0.005469387782849112,Folk
+1234,ADQ023,Music,Folk 1,Folk 1,-0.0025232450244195757,Folk
+1235,ADQ024,Music,Folk 1,Folk 1,0.045869651483436774,Folk
+1236,ADQ025,Music,Folk 1,Folk 1,0.042362068215744106,Folk
+1237,ADQ026,Music,Folk 1,Folk 1,0.06027387310955075,Folk
+1238,ADQ027,Music,Folk 1,Folk 1,0.03064058370878765,Folk
+1239,ADQ028,Music,Folk 1,Folk 1,0.008740496405114088,Folk
+1240,ADQ029,Music,Folk 1,Folk 1,0.009567955135299346,Folk
+1241,ADQ030,Music,Folk 1,Folk 1,0.020651505030609963,Folk
+1242,ADQ031,Music,Folk 1,Folk 1,0.007209374861425044,Folk
+1243,ADQ033,Music,Folk 1,Folk 1,0.0190350740814884,Folk
+1244,ADQ034,Music,Folk 1,Folk 1,0.003038529862495678,Folk
+1245,ADQ035,Music,Folk 1,Folk 1,0.012245168731506115,Folk
+1246,ADQ036,Music,Folk 1,Folk 1,0.01020830237189822,Folk
+1247,ADQ037,Music,Folk 1,Folk 1,0.025881708173087912,Folk
+1248,ADQ038,Music,Folk 1,Folk 1,0.04947914743300046,Folk
+1249,ADQ039,Music,Folk 1,Folk 1,0.017480559054655086,Folk
+1250,ADQ040,Music,Folk 1,Folk 1,-0.0038588186232082224,Folk
+1251,ADQ041,Music,Folk 1,Folk 1,0.058035089201239426,Folk
+1252,ADQ042,Music,Folk 1,Folk 1,0.024445974813959218,Folk
+1253,ADQ043,Music,Folk 1,Folk 1,0.029871801843337008,Folk
+1254,ADQ044,Music,Folk 1,Folk 1,0.008197448862719451,Folk
+1255,ADQ045,Music,Folk 1,Folk 1,0.020634882473248194,Folk
+1256,ADQ046,Music,Folk 1,Folk 1,0.005919111353024679,Folk
+1257,ADQ047,Music,Folk 1,Folk 1,0.011154935718092642,Folk
+1258,ADQ048,Music,Folk 1,Folk 1,0.0224898317703178,Folk
+1259,ADQ049,Music,Folk 1,Folk 1,0.0460686857142368,Folk
+1260,ADQ050,Music,Folk 1,Folk 1,0.027105300264967495,Folk
+1261,ADQ051,Music,Folk 1,Folk 1,0.0428180098792188,Folk
+1262,ADQ052,Music,Folk 1,Folk 1,0.014713387908869896,Folk
+1263,ADQ053,Music,Folk 1,Folk 1,0.03496576886156105,Folk
+1264,ADQ054,Music,Folk 1,Folk 1,0.022435268286149883,Folk
+1265,ADQ055,Music,Folk 1,Folk 1,0.07616634367153198,Folk
+1266,ADQ056,Music,Folk 1,Folk 1,0.05460650612341318,Folk
+1267,ADQ057,Music,Folk 1,Folk 1,0.02383341381605583,Folk
+1268,ADQ059,Music,Folk 1,Folk 1,0.017734813602065053,Folk
+1269,ADQ060,Music,Folk 1,Folk 1,0.0228190770053574,Folk
+1270,ADQ061,Music,Folk 1,Folk 1,0.03493473692410865,Folk
+1271,ADQ062,Music,Folk 1,Folk 1,0.05829983570472625,Folk
+1272,ADQ063,Music,Folk 1,Folk 1,0.03468907547316685,Folk
+1273,ADQ064,Music,Folk 1,Folk 1,-0.010704115366285268,Folk
+1274,ADR067,Music,Folk 1,Folk 1,-0.000446450990404314,Folk
+1275,ADR068,Music,Folk 1,Folk 1,0.02612113755830859,Folk
+1276,ADR069,Music,Folk 1,Folk 1,0.004811663701466132,Folk
+1277,ADR070,Music,Folk 1,Folk 1,0.0016159632292405935,Folk
+1278,ADR071,Music,Folk 1,Folk 1,0.013856368158841,Folk
+1279,AEQ079,Music,Folk 1,Folk 1,0.00879433066490966,Folk
+1280,AEQ080,Music,Folk 1,Folk 1,0.031644397240037,Folk
+1281,AEQ081,Music,Folk 1,Folk 1,0.04338406493640401,Folk
+1282,AEQ082,Music,Folk 1,Folk 1,0.011147889602177538,Folk
+1283,AEQ083,Music,Folk 1,Folk 1,0.06616942045198405,Folk
+1284,AEQ085,Music,Folk 1,Folk 1,0.0025936990555244354,Folk
+1285,AEQ086,Music,Folk 1,Folk 1,-0.017362416899329686,Folk
+1286,AEQ087,Music,Folk 1,Folk 1,0.013578491896913956,Folk
+1287,AEQ088,Music,Folk 1,Folk 1,0.00680844055977641,Folk
+1288,AEQ089,Music,Folk 1,Folk 1,0.0075474480105552225,Folk
+1289,AER090,Music,Folk 1,Folk 1,0.0063609606524103815,Folk
+1290,ADQ001,Music,Folk 1,Folk 1,0.0457727007772898,Folk
+1291,ADQ002,Music,Folk 2,Folk 2,-0.03527905369880824,Folk
+1292,ADQ003,Music,Folk 2,Folk 2,0.11562800933651081,Folk
+1293,ADQ004,Music,Folk 2,Folk 2,0.1021951302332473,Folk
+1294,ADQ005,Music,Folk 2,Folk 2,-0.002507157999646285,Folk
+1295,ADQ006,Music,Folk 2,Folk 2,0.05712157465196495,Folk
+1296,ADQ007,Music,Folk 2,Folk 2,0.07704261443827098,Folk
+1297,ADQ008,Music,Folk 2,Folk 2,0.03133778987573929,Folk
+1298,ADQ009,Music,Folk 2,Folk 2,-0.012891838277771002,Folk
+1299,ADQ010,Music,Folk 2,Folk 2,0.0647334424124433,Folk
+1300,ADQ011,Music,Folk 2,Folk 2,0.03939326831134348,Folk
+1301,ADQ012,Music,Folk 2,Folk 2,0.04295228410585957,Folk
+1302,ADQ013,Music,Folk 2,Folk 2,0.005772106446880836,Folk
+1303,ADQ014,Music,Folk 2,Folk 2,0.13258937365527892,Folk
+1304,ADQ015,Music,Folk 2,Folk 2,0.08227444279270434,Folk
+1305,ADQ016,Music,Folk 2,Folk 2,0.14565477466193408,Folk
+1306,ADQ017,Music,Folk 2,Folk 2,0.07530300991516048,Folk
+1307,ADQ018,Music,Folk 2,Folk 2,0.1676086155914366,Folk
+1308,ADQ019,Music,Folk 2,Folk 2,0.06931578141158717,Folk
+1309,ADQ020,Music,Folk 2,Folk 2,0.04481590912414016,Folk
+1310,ADQ023,Music,Folk 2,Folk 2,0.05519533408732761,Folk
+1311,ADQ024,Music,Folk 2,Folk 2,0.0846732649226343,Folk
+1312,ADQ025,Music,Folk 2,Folk 2,0.08072846778656656,Folk
+1313,ADQ026,Music,Folk 2,Folk 2,0.12567388111770586,Folk
+1314,ADQ027,Music,Folk 2,Folk 2,0.07297546375860897,Folk
+1315,ADQ028,Music,Folk 2,Folk 2,0.10273997401631292,Folk
+1316,ADQ030,Music,Folk 2,Folk 2,0.06686636338691719,Folk
+1317,ADQ031,Music,Folk 2,Folk 2,0.0596315309908288,Folk
+1318,ADQ033,Music,Folk 2,Folk 2,0.07216192804776789,Folk
+1319,ADQ034,Music,Folk 2,Folk 2,0.09011894476744982,Folk
+1320,ADQ035,Music,Folk 2,Folk 2,0.048517592131626215,Folk
+1321,ADQ036,Music,Folk 2,Folk 2,0.07705950457340657,Folk
+1322,ADQ037,Music,Folk 2,Folk 2,0.09629085083827293,Folk
+1323,ADQ038,Music,Folk 2,Folk 2,0.06012065225714707,Folk
+1324,ADQ039,Music,Folk 2,Folk 2,0.05345176222575847,Folk
+1325,ADQ040,Music,Folk 2,Folk 2,0.08712565559596167,Folk
+1326,ADQ041,Music,Folk 2,Folk 2,0.056603546649027274,Folk
+1327,ADQ042,Music,Folk 2,Folk 2,0.1498897747179531,Folk
+1328,ADQ043,Music,Folk 2,Folk 2,0.11894296783040205,Folk
+1329,ADQ044,Music,Folk 2,Folk 2,0.07608509552395394,Folk
+1330,ADQ045,Music,Folk 2,Folk 2,0.08882657078901739,Folk
+1331,ADQ046,Music,Folk 2,Folk 2,0.05992124463362057,Folk
+1332,ADQ047,Music,Folk 2,Folk 2,0.06317143712217653,Folk
+1333,ADQ048,Music,Folk 2,Folk 2,-0.0033194894182495232,Folk
+1334,ADQ049,Music,Folk 2,Folk 2,0.05760430263833368,Folk
+1335,ADQ050,Music,Folk 2,Folk 2,0.059729051767507244,Folk
+1336,ADQ051,Music,Folk 2,Folk 2,0.16284864688854456,Folk
+1337,ADQ052,Music,Folk 2,Folk 2,0.04475256619671946,Folk
+1338,ADQ053,Music,Folk 2,Folk 2,0.04807881635936539,Folk
+1339,ADQ054,Music,Folk 2,Folk 2,0.06684089443474352,Folk
+1340,ADQ055,Music,Folk 2,Folk 2,0.10042885220185876,Folk
+1341,ADQ056,Music,Folk 2,Folk 2,0.06524823740896289,Folk
+1342,ADQ057,Music,Folk 2,Folk 2,0.07257914711521755,Folk
+1343,ADQ059,Music,Folk 2,Folk 2,0.08912220107102808,Folk
+1344,ADQ060,Music,Folk 2,Folk 2,0.07655633622506426,Folk
+1345,ADQ061,Music,Folk 2,Folk 2,0.07382359609804078,Folk
+1346,ADQ062,Music,Folk 2,Folk 2,0.10423719581221096,Folk
+1347,ADQ063,Music,Folk 2,Folk 2,0.008711732841408944,Folk
+1348,ADQ064,Music,Folk 2,Folk 2,0.12888235755396868,Folk
+1349,ADR067,Music,Folk 2,Folk 2,0.05025618503126164,Folk
+1350,ADR068,Music,Folk 2,Folk 2,0.00463225061464124,Folk
+1351,ADR069,Music,Folk 2,Folk 2,0.020309644733439703,Folk
+1352,ADR070,Music,Folk 2,Folk 2,-0.03923194474226459,Folk
+1353,ADR071,Music,Folk 2,Folk 2,0.07927650577448048,Folk
+1354,AEQ079,Music,Folk 2,Folk 2,0.029263615518152188,Folk
+1355,AEQ080,Music,Folk 2,Folk 2,0.12560345487885585,Folk
+1356,AEQ081,Music,Folk 2,Folk 2,0.07756921778737984,Folk
+1357,AEQ082,Music,Folk 2,Folk 2,0.16286429044838452,Folk
+1358,AEQ083,Music,Folk 2,Folk 2,0.1242014300674052,Folk
+1359,AEQ086,Music,Folk 2,Folk 2,0.07951815078888606,Folk
+1360,AEQ087,Music,Folk 2,Folk 2,0.09843792912288284,Folk
+1361,AEQ088,Music,Folk 2,Folk 2,-0.035701635096937974,Folk
+1362,AEQ089,Music,Folk 2,Folk 2,0.0309688977364375,Folk
+1363,AER090,Music,Folk 2,Folk 2,0.03813626989989286,Folk
+1364,ADQ001,Music,Folk 2,Folk 2,0.1415529040980714,Folk
+1365,ADQ002,Music,Folk 3,Folk 3,0.008090871350173338,Folk
+1366,ADQ003,Music,Folk 3,Folk 3,0.03528599230592155,Folk
+1367,ADQ004,Music,Folk 3,Folk 3,0.02840571414007023,Folk
+1368,ADQ005,Music,Folk 3,Folk 3,0.030226182084805982,Folk
+1369,ADQ006,Music,Folk 3,Folk 3,0.02639535377270832,Folk
+1370,ADQ007,Music,Folk 3,Folk 3,0.015706479977773104,Folk
+1371,ADQ008,Music,Folk 3,Folk 3,-0.02043234606721068,Folk
+1372,ADQ009,Music,Folk 3,Folk 3,0.020022019205570517,Folk
+1373,ADQ010,Music,Folk 3,Folk 3,0.010959576487518321,Folk
+1374,ADQ011,Music,Folk 3,Folk 3,-0.012312316627537876,Folk
+1375,ADQ012,Music,Folk 3,Folk 3,0.026313770829329407,Folk
+1376,ADQ013,Music,Folk 3,Folk 3,-0.0010243910231914715,Folk
+1377,ADQ014,Music,Folk 3,Folk 3,0.027281480366499678,Folk
+1378,ADQ015,Music,Folk 3,Folk 3,0.030753854794562874,Folk
+1379,ADQ016,Music,Folk 3,Folk 3,0.04517418099502164,Folk
+1380,ADQ017,Music,Folk 3,Folk 3,0.019848965438573254,Folk
+1381,ADQ018,Music,Folk 3,Folk 3,0.07287545611017522,Folk
+1382,ADQ019,Music,Folk 3,Folk 3,0.006895818388130025,Folk
+1383,ADQ020,Music,Folk 3,Folk 3,0.027169957731921202,Folk
+1384,ADQ023,Music,Folk 3,Folk 3,-0.015366589111481007,Folk
+1385,ADQ024,Music,Folk 3,Folk 3,0.03355085302147557,Folk
+1386,ADQ025,Music,Folk 3,Folk 3,-0.002871378437534729,Folk
+1387,ADQ026,Music,Folk 3,Folk 3,0.020775758723612297,Folk
+1388,ADQ027,Music,Folk 3,Folk 3,0.024747942438971365,Folk
+1389,ADQ028,Music,Folk 3,Folk 3,0.01433701369730721,Folk
+1390,ADQ030,Music,Folk 3,Folk 3,0.01952094491249823,Folk
+1391,ADQ031,Music,Folk 3,Folk 3,0.03330515305442163,Folk
+1392,ADQ033,Music,Folk 3,Folk 3,0.01323532932518185,Folk
+1393,ADQ034,Music,Folk 3,Folk 3,0.005686526346810528,Folk
+1394,ADQ035,Music,Folk 3,Folk 3,0.017524140825072563,Folk
+1395,ADQ036,Music,Folk 3,Folk 3,0.01523207601632053,Folk
+1396,ADQ037,Music,Folk 3,Folk 3,0.029887356801317495,Folk
+1397,ADQ038,Music,Folk 3,Folk 3,0.03222532088203023,Folk
+1398,ADQ039,Music,Folk 3,Folk 3,0.0407206191113332,Folk
+1399,ADQ040,Music,Folk 3,Folk 3,0.015936415668995976,Folk
+1400,ADQ041,Music,Folk 3,Folk 3,0.025631264197780758,Folk
+1401,ADQ042,Music,Folk 3,Folk 3,0.0578436776818944,Folk
+1402,ADQ043,Music,Folk 3,Folk 3,0.04688030865172567,Folk
+1403,ADQ044,Music,Folk 3,Folk 3,0.04470630286647003,Folk
+1404,ADQ045,Music,Folk 3,Folk 3,0.033439987684568205,Folk
+1405,ADQ046,Music,Folk 3,Folk 3,0.02423003954929512,Folk
+1406,ADQ047,Music,Folk 3,Folk 3,0.021662790620315404,Folk
+1407,ADQ048,Music,Folk 3,Folk 3,0.012413738941844353,Folk
+1408,ADQ049,Music,Folk 3,Folk 3,0.03237627226235693,Folk
+1409,ADQ050,Music,Folk 3,Folk 3,0.03196856041412706,Folk
+1410,ADQ051,Music,Folk 3,Folk 3,0.026930209487363514,Folk
+1411,ADQ052,Music,Folk 3,Folk 3,0.012429764820582431,Folk
+1412,ADQ053,Music,Folk 3,Folk 3,0.04896293667730905,Folk
+1413,ADQ054,Music,Folk 3,Folk 3,0.001308893505332038,Folk
+1414,ADQ055,Music,Folk 3,Folk 3,0.05679137037891859,Folk
+1415,ADQ056,Music,Folk 3,Folk 3,0.04478813192271309,Folk
+1416,ADQ057,Music,Folk 3,Folk 3,0.03022167233587561,Folk
+1417,ADQ059,Music,Folk 3,Folk 3,0.014506229880081793,Folk
+1418,ADQ060,Music,Folk 3,Folk 3,0.0394644818404769,Folk
+1419,ADQ061,Music,Folk 3,Folk 3,0.04374645518341099,Folk
+1420,ADQ062,Music,Folk 3,Folk 3,0.024558650464624764,Folk
+1421,ADQ063,Music,Folk 3,Folk 3,0.019112523616578864,Folk
+1422,ADQ064,Music,Folk 3,Folk 3,0.029066378095898224,Folk
+1423,ADR067,Music,Folk 3,Folk 3,0.006277599212482432,Folk
+1424,ADR068,Music,Folk 3,Folk 3,0.037347810409350216,Folk
+1425,ADR069,Music,Folk 3,Folk 3,0.03281943622443977,Folk
+1426,ADR070,Music,Folk 3,Folk 3,0.021204534920320553,Folk
+1427,ADR071,Music,Folk 3,Folk 3,0.0012565092610315306,Folk
+1428,AEQ079,Music,Folk 3,Folk 3,0.03340880239647117,Folk
+1429,AEQ080,Music,Folk 3,Folk 3,0.0005729107575460247,Folk
+1430,AEQ081,Music,Folk 3,Folk 3,0.05055819078860431,Folk
+1431,AEQ082,Music,Folk 3,Folk 3,0.041669319686232185,Folk
+1432,AEQ083,Music,Folk 3,Folk 3,0.05713855163195651,Folk
+1433,AEQ086,Music,Folk 3,Folk 3,0.0039025280235529904,Folk
+1434,AEQ087,Music,Folk 3,Folk 3,0.031181970249655452,Folk
+1435,AEQ088,Music,Folk 3,Folk 3,0.012272372019399225,Folk
+1436,AEQ089,Music,Folk 3,Folk 3,0.008839925461902745,Folk
+1437,AER090,Music,Folk 3,Folk 3,0.025079788956181445,Folk
+1438,ADQ001,Music,Folk 3,Folk 3,0.04738744712042287,Folk
+1439,ADQ002,Music,Folk 4,Folk 4,0.004087660299941567,Folk
+1440,ADQ003,Music,Folk 4,Folk 4,0.012772930190422053,Folk
+1441,ADQ004,Music,Folk 4,Folk 4,0.00015027358002312548,Folk
+1442,ADQ005,Music,Folk 4,Folk 4,0.018000210053466248,Folk
+1443,ADQ006,Music,Folk 4,Folk 4,0.003157112402047241,Folk
+1444,ADQ007,Music,Folk 4,Folk 4,0.0037127216770543566,Folk
+1445,ADQ008,Music,Folk 4,Folk 4,0.00042374441338840596,Folk
+1446,ADQ009,Music,Folk 4,Folk 4,0.00618927615328525,Folk
+1447,ADQ010,Music,Folk 4,Folk 4,0.015731920747954407,Folk
+1448,ADQ011,Music,Folk 4,Folk 4,0.003447149203801814,Folk
+1449,ADQ012,Music,Folk 4,Folk 4,0.003577919991837588,Folk
+1450,ADQ013,Music,Folk 4,Folk 4,0.010099734714001858,Folk
+1451,ADQ014,Music,Folk 4,Folk 4,0.0004507471999817839,Folk
+1452,ADQ015,Music,Folk 4,Folk 4,-0.001040241101893524,Folk
+1453,ADQ016,Music,Folk 4,Folk 4,-0.005677252402392578,Folk
+1454,ADQ017,Music,Folk 4,Folk 4,0.005602179563939851,Folk
+1455,ADQ018,Music,Folk 4,Folk 4,0.013544742974663413,Folk
+1456,ADQ019,Music,Folk 4,Folk 4,-0.0009643036294222431,Folk
+1457,ADQ020,Music,Folk 4,Folk 4,0.004671072511273103,Folk
+1458,ADQ023,Music,Folk 4,Folk 4,0.005477544404440313,Folk
+1459,ADQ024,Music,Folk 4,Folk 4,0.00228106882873318,Folk
+1460,ADQ025,Music,Folk 4,Folk 4,0.006781747086625161,Folk
+1461,ADQ026,Music,Folk 4,Folk 4,0.005780126203908475,Folk
+1462,ADQ027,Music,Folk 4,Folk 4,0.0077571460189615185,Folk
+1463,ADQ028,Music,Folk 4,Folk 4,0.006729849473409753,Folk
+1464,ADQ030,Music,Folk 4,Folk 4,0.005462359556711292,Folk
+1465,ADQ031,Music,Folk 4,Folk 4,0.00905653491454098,Folk
+1466,ADQ033,Music,Folk 4,Folk 4,0.0016536687259883463,Folk
+1467,ADQ034,Music,Folk 4,Folk 4,0.006760396709931509,Folk
+1468,ADQ035,Music,Folk 4,Folk 4,0.002974473325113974,Folk
+1469,ADQ036,Music,Folk 4,Folk 4,0.0074715023047376705,Folk
+1470,ADQ037,Music,Folk 4,Folk 4,-0.0008703928438717224,Folk
+1471,ADQ038,Music,Folk 4,Folk 4,0.004591894140411354,Folk
+1472,ADQ040,Music,Folk 4,Folk 4,0.0027167592862659775,Folk
+1473,ADQ041,Music,Folk 4,Folk 4,0.009352501607950772,Folk
+1474,ADQ042,Music,Folk 4,Folk 4,0.0052221834043962535,Folk
+1475,ADQ043,Music,Folk 4,Folk 4,0.02278621509363414,Folk
+1476,ADQ044,Music,Folk 4,Folk 4,0.009007321501548428,Folk
+1477,ADQ045,Music,Folk 4,Folk 4,0.0014143254975658192,Folk
+1478,ADQ046,Music,Folk 4,Folk 4,-0.00338104156360194,Folk
+1479,ADQ047,Music,Folk 4,Folk 4,0.018170347861165465,Folk
+1480,ADQ048,Music,Folk 4,Folk 4,0.017457510488611837,Folk
+1481,ADQ049,Music,Folk 4,Folk 4,0.009528117486279361,Folk
+1482,ADQ050,Music,Folk 4,Folk 4,0.00651881839403954,Folk
+1483,ADQ051,Music,Folk 4,Folk 4,0.006709758809716647,Folk
+1484,ADQ052,Music,Folk 4,Folk 4,-0.012135125699465246,Folk
+1485,ADQ053,Music,Folk 4,Folk 4,0.005045267226364904,Folk
+1486,ADQ054,Music,Folk 4,Folk 4,0.013444297343401173,Folk
+1487,ADQ055,Music,Folk 4,Folk 4,0.013588747849899415,Folk
+1488,ADQ056,Music,Folk 4,Folk 4,0.013700904956073517,Folk
+1489,ADQ057,Music,Folk 4,Folk 4,0.014132832715951687,Folk
+1490,ADQ059,Music,Folk 4,Folk 4,-0.0024139859456448042,Folk
+1491,ADQ060,Music,Folk 4,Folk 4,0.004827347994448412,Folk
+1492,ADQ061,Music,Folk 4,Folk 4,0.0019843774066425073,Folk
+1493,ADQ062,Music,Folk 4,Folk 4,0.0157319548829341,Folk
+1494,ADQ063,Music,Folk 4,Folk 4,-0.008248808188269953,Folk
+1495,ADQ064,Music,Folk 4,Folk 4,0.003262452910035895,Folk
+1496,ADR067,Music,Folk 4,Folk 4,0.009578052690982795,Folk
+1497,ADR068,Music,Folk 4,Folk 4,0.011645075370782992,Folk
+1498,ADR069,Music,Folk 4,Folk 4,0.0010280493992690402,Folk
+1499,ADR070,Music,Folk 4,Folk 4,0.005982694058223233,Folk
+1500,ADR071,Music,Folk 4,Folk 4,-0.0005136875361196632,Folk
+1501,AEQ079,Music,Folk 4,Folk 4,0.005803063098220377,Folk
+1502,AEQ080,Music,Folk 4,Folk 4,0.0009811074091886605,Folk
+1503,AEQ081,Music,Folk 4,Folk 4,0.010243600843413051,Folk
+1504,AEQ082,Music,Folk 4,Folk 4,0.006085993815128568,Folk
+1505,AEQ083,Music,Folk 4,Folk 4,0.019920943140801926,Folk
+1506,AEQ086,Music,Folk 4,Folk 4,-0.007276075102361589,Folk
+1507,AEQ087,Music,Folk 4,Folk 4,0.008840564284107,Folk
+1508,AEQ088,Music,Folk 4,Folk 4,0.004176428479291966,Folk
+1509,AEQ089,Music,Folk 4,Folk 4,0.01362434685156288,Folk
+1510,AER090,Music,Folk 4,Folk 4,-0.0029654845049918574,Folk
+1511,ADQ001,Music,Folk 4,Folk 4,0.011338402986768407,Folk
+1512,ADQ002,Music,Folk 5,Folk 5,-0.002125814851897903,Folk
+1513,ADQ003,Music,Folk 5,Folk 5,0.016826057860266922,Folk
+1514,ADQ004,Music,Folk 5,Folk 5,0.013631667570549153,Folk
+1515,ADQ005,Music,Folk 5,Folk 5,-0.02322979685542755,Folk
+1516,ADQ006,Music,Folk 5,Folk 5,0.004432761356419381,Folk
+1517,ADQ007,Music,Folk 5,Folk 5,0.000557664706617728,Folk
+1518,ADQ008,Music,Folk 5,Folk 5,-0.005227761231282199,Folk
+1519,ADQ009,Music,Folk 5,Folk 5,0.011176249377352659,Folk
+1520,ADQ010,Music,Folk 5,Folk 5,0.026981170343234058,Folk
+1521,ADQ011,Music,Folk 5,Folk 5,-0.006221126377426916,Folk
+1522,ADQ012,Music,Folk 5,Folk 5,0.007321001289965759,Folk
+1523,ADQ013,Music,Folk 5,Folk 5,0.0031335068763004965,Folk
+1524,ADQ014,Music,Folk 5,Folk 5,0.02261481288745768,Folk
+1525,ADQ015,Music,Folk 5,Folk 5,0.002833868985577622,Folk
+1526,ADQ016,Music,Folk 5,Folk 5,0.002811192191571584,Folk
+1527,ADQ017,Music,Folk 5,Folk 5,0.012136467017054365,Folk
+1528,ADQ018,Music,Folk 5,Folk 5,-0.005260245341032446,Folk
+1529,ADQ019,Music,Folk 5,Folk 5,0.010930048854841373,Folk
+1530,ADQ020,Music,Folk 5,Folk 5,-0.0044031303747889316,Folk
+1531,ADQ023,Music,Folk 5,Folk 5,0.0013358770343579055,Folk
+1532,ADQ024,Music,Folk 5,Folk 5,-0.01339732471356923,Folk
+1533,ADQ025,Music,Folk 5,Folk 5,0.013038923938293654,Folk
+1534,ADQ026,Music,Folk 5,Folk 5,0.03305054553020131,Folk
+1535,ADQ027,Music,Folk 5,Folk 5,0.0058427578717724195,Folk
+1536,ADQ028,Music,Folk 5,Folk 5,0.010298638752796714,Folk
+1537,ADQ030,Music,Folk 5,Folk 5,0.028413050092261652,Folk
+1538,ADQ031,Music,Folk 5,Folk 5,0.010371831350623448,Folk
+1539,ADQ033,Music,Folk 5,Folk 5,0.0061150210885085685,Folk
+1540,ADQ034,Music,Folk 5,Folk 5,0.011075042695010475,Folk
+1541,ADQ035,Music,Folk 5,Folk 5,-0.0072379802151273905,Folk
+1542,ADQ036,Music,Folk 5,Folk 5,0.004239037149655023,Folk
+1543,ADQ037,Music,Folk 5,Folk 5,0.0008669602444106989,Folk
+1544,ADQ038,Music,Folk 5,Folk 5,0.009234128523340981,Folk
+1545,ADQ040,Music,Folk 5,Folk 5,-0.003569839323852945,Folk
+1546,ADQ041,Music,Folk 5,Folk 5,0.018543709284826806,Folk
+1547,ADQ042,Music,Folk 5,Folk 5,0.00059109313960349,Folk
+1548,ADQ043,Music,Folk 5,Folk 5,0.015647081640204355,Folk
+1549,ADQ044,Music,Folk 5,Folk 5,0.009156805814804478,Folk
+1550,ADQ045,Music,Folk 5,Folk 5,0.013532752839545826,Folk
+1551,ADQ046,Music,Folk 5,Folk 5,-0.00957291847750521,Folk
+1552,ADQ047,Music,Folk 5,Folk 5,0.0081198875074586,Folk
+1553,ADQ048,Music,Folk 5,Folk 5,0.008904623052709299,Folk
+1554,ADQ049,Music,Folk 5,Folk 5,-0.0067036575220898445,Folk
+1555,ADQ050,Music,Folk 5,Folk 5,0.003011249678895266,Folk
+1556,ADQ051,Music,Folk 5,Folk 5,0.024016981254668706,Folk
+1557,ADQ052,Music,Folk 5,Folk 5,0.009443742957173882,Folk
+1558,ADQ053,Music,Folk 5,Folk 5,0.003631913946631265,Folk
+1559,ADQ054,Music,Folk 5,Folk 5,0.0043337563209182445,Folk
+1560,ADQ055,Music,Folk 5,Folk 5,0.022042834437256496,Folk
+1561,ADQ056,Music,Folk 5,Folk 5,0.011815760753575653,Folk
+1562,ADQ057,Music,Folk 5,Folk 5,0.0008203833376816944,Folk
+1563,ADQ059,Music,Folk 5,Folk 5,-0.00800632777758716,Folk
+1564,ADQ060,Music,Folk 5,Folk 5,0.015911651865986982,Folk
+1565,ADQ061,Music,Folk 5,Folk 5,0.01620254088910056,Folk
+1566,ADQ062,Music,Folk 5,Folk 5,-0.00172226482616258,Folk
+1567,ADQ063,Music,Folk 5,Folk 5,0.004571400897601045,Folk
+1568,ADQ064,Music,Folk 5,Folk 5,0.003554490248606307,Folk
+1569,ADR067,Music,Folk 5,Folk 5,0.003466716031517872,Folk
+1570,ADR068,Music,Folk 5,Folk 5,0.005632284774014777,Folk
+1571,ADR069,Music,Folk 5,Folk 5,-0.00455421704682539,Folk
+1572,ADR070,Music,Folk 5,Folk 5,0.003695960779225026,Folk
+1573,ADR071,Music,Folk 5,Folk 5,-0.00465375177184049,Folk
+1574,AEQ079,Music,Folk 5,Folk 5,0.0015701755444888618,Folk
+1575,AEQ080,Music,Folk 5,Folk 5,-0.0036659920457056583,Folk
+1576,AEQ081,Music,Folk 5,Folk 5,0.009623907949422798,Folk
+1577,AEQ082,Music,Folk 5,Folk 5,0.020798536983005184,Folk
+1578,AEQ083,Music,Folk 5,Folk 5,-0.015448673647817412,Folk
+1579,AEQ086,Music,Folk 5,Folk 5,0.011500597971257402,Folk
+1580,AEQ087,Music,Folk 5,Folk 5,0.007556099578970848,Folk
+1581,AEQ088,Music,Folk 5,Folk 5,0.005664787169989994,Folk
+1582,AEQ089,Music,Folk 5,Folk 5,0.010182491739340743,Folk
+1583,AER090,Music,Folk 5,Folk 5,0.014765170994633876,Folk
+1584,ADQ001,Music,Folk 5,Folk 5,0.013148077983039493,Folk
+1585,ADQ002,Music,Folk 6,Folk 6,0.014442813913458,Folk
+1586,ADQ003,Music,Folk 6,Folk 6,0.03140445137092258,Folk
+1587,ADQ004,Music,Folk 6,Folk 6,-0.0007252681775735865,Folk
+1588,ADQ005,Music,Folk 6,Folk 6,0.030989463549093245,Folk
+1589,ADQ006,Music,Folk 6,Folk 6,0.0016080474672414149,Folk
+1590,ADQ007,Music,Folk 6,Folk 6,0.02514120767379066,Folk
+1591,ADQ008,Music,Folk 6,Folk 6,-0.0005106102665793513,Folk
+1592,ADQ009,Music,Folk 6,Folk 6,0.005140599078025595,Folk
+1593,ADQ010,Music,Folk 6,Folk 6,0.04019394442263542,Folk
+1594,ADQ011,Music,Folk 6,Folk 6,-0.010592298406628158,Folk
+1595,ADQ012,Music,Folk 6,Folk 6,0.046013458969217026,Folk
+1596,ADQ013,Music,Folk 6,Folk 6,0.023607883127803216,Folk
+1597,ADQ014,Music,Folk 6,Folk 6,0.019401017555321413,Folk
+1598,ADQ015,Music,Folk 6,Folk 6,-0.004774900838038156,Folk
+1599,ADQ016,Music,Folk 6,Folk 6,0.05072273816171434,Folk
+1600,ADQ017,Music,Folk 6,Folk 6,0.009855028869673299,Folk
+1601,ADQ018,Music,Folk 6,Folk 6,0.06801640180902989,Folk
+1602,ADQ019,Music,Folk 6,Folk 6,-0.004393662451466733,Folk
+1603,ADQ020,Music,Folk 6,Folk 6,0.028937578405033568,Folk
+1604,ADQ023,Music,Folk 6,Folk 6,0.0169748765885376,Folk
+1605,ADQ024,Music,Folk 6,Folk 6,0.021463189510851084,Folk
+1606,ADQ025,Music,Folk 6,Folk 6,0.02959214480663871,Folk
+1607,ADQ026,Music,Folk 6,Folk 6,0.04262277284174613,Folk
+1608,ADQ027,Music,Folk 6,Folk 6,0.013061159462804726,Folk
+1609,ADQ028,Music,Folk 6,Folk 6,0.01674381484102436,Folk
+1610,ADQ030,Music,Folk 6,Folk 6,0.030369811105598363,Folk
+1611,ADQ031,Music,Folk 6,Folk 6,0.04030322334950504,Folk
+1612,ADQ033,Music,Folk 6,Folk 6,0.03183994055935384,Folk
+1613,ADQ034,Music,Folk 6,Folk 6,-0.014590374972552956,Folk
+1614,ADQ035,Music,Folk 6,Folk 6,0.0034665397599532976,Folk
+1615,ADQ036,Music,Folk 6,Folk 6,0.006214813146782706,Folk
+1616,ADQ037,Music,Folk 6,Folk 6,0.01725779120454253,Folk
+1617,ADQ038,Music,Folk 6,Folk 6,-0.007591571539978458,Folk
+1618,ADQ040,Music,Folk 6,Folk 6,0.03367279048827389,Folk
+1619,ADQ041,Music,Folk 6,Folk 6,4.2745843739043366e-05,Folk
+1620,ADQ042,Music,Folk 6,Folk 6,-0.0045788268602609,Folk
+1621,ADQ043,Music,Folk 6,Folk 6,-0.01733045245383396,Folk
+1622,ADQ044,Music,Folk 6,Folk 6,-0.0021823429657552994,Folk
+1623,ADQ045,Music,Folk 6,Folk 6,0.014550448137985422,Folk
+1624,ADQ046,Music,Folk 6,Folk 6,0.00873673464862444,Folk
+1625,ADQ047,Music,Folk 6,Folk 6,0.003910692528891911,Folk
+1626,ADQ048,Music,Folk 6,Folk 6,0.021518646599525706,Folk
+1627,ADQ049,Music,Folk 6,Folk 6,-0.0011377333210867266,Folk
+1628,ADQ050,Music,Folk 6,Folk 6,0.0013642011450048074,Folk
+1629,ADQ051,Music,Folk 6,Folk 6,-0.004887429017753719,Folk
+1630,ADQ052,Music,Folk 6,Folk 6,-0.019985487826808566,Folk
+1631,ADQ053,Music,Folk 6,Folk 6,0.019861053417760625,Folk
+1632,ADQ054,Music,Folk 6,Folk 6,0.026737649746150186,Folk
+1633,ADQ055,Music,Folk 6,Folk 6,-0.01022153162812875,Folk
+1634,ADQ056,Music,Folk 6,Folk 6,0.010787797972483611,Folk
+1635,ADQ057,Music,Folk 6,Folk 6,0.020752158118643952,Folk
+1636,ADQ059,Music,Folk 6,Folk 6,0.01157184767075536,Folk
+1637,ADQ060,Music,Folk 6,Folk 6,0.01636552636645949,Folk
+1638,ADQ061,Music,Folk 6,Folk 6,-0.00046998349154012614,Folk
+1639,ADQ062,Music,Folk 6,Folk 6,0.030481049323612532,Folk
+1640,ADQ063,Music,Folk 6,Folk 6,0.015177472980722284,Folk
+1641,ADQ064,Music,Folk 6,Folk 6,0.06577784853011023,Folk
+1642,ADR067,Music,Folk 6,Folk 6,-0.0004037937366759708,Folk
+1643,ADR068,Music,Folk 6,Folk 6,0.01803498268769746,Folk
+1644,ADR069,Music,Folk 6,Folk 6,0.029168121548866378,Folk
+1645,ADR070,Music,Folk 6,Folk 6,0.0018653801246159615,Folk
+1646,ADR071,Music,Folk 6,Folk 6,0.00942252391453899,Folk
+1647,AEQ079,Music,Folk 6,Folk 6,0.02498167169245834,Folk
+1648,AEQ080,Music,Folk 6,Folk 6,0.032339493040008827,Folk
+1649,AEQ081,Music,Folk 6,Folk 6,0.01736155472004612,Folk
+1650,AEQ082,Music,Folk 6,Folk 6,0.021481229760903497,Folk
+1651,AEQ085,Music,Folk 6,Folk 6,0.04097072779444541,Folk
+1652,AEQ086,Music,Folk 6,Folk 6,0.009777463581278708,Folk
+1653,AEQ087,Music,Folk 6,Folk 6,0.02290473347676487,Folk
+1654,AEQ088,Music,Folk 6,Folk 6,0.009158824814433714,Folk
+1655,AEQ089,Music,Folk 6,Folk 6,0.02974414696766456,Folk
+1656,AER090,Music,Folk 6,Folk 6,0.009764082925879452,Folk
+1657,ADQ001,Music,Folk 6,Folk 6,0.04085790343976919,Folk
+1658,ADQ002,Applause,Clapping for Final,Claps 14,0.12953495268301216,Clapping
+1659,ADQ003,Applause,Clapping for Final,Claps 14,0.16350959651571803,Clapping
+1660,ADQ004,Applause,Clapping for Final,Claps 14,0.10830264319737558,Clapping
+1661,ADQ005,Applause,Clapping for Final,Claps 14,0.12433033003403778,Clapping
+1662,ADQ006,Applause,Clapping for Final,Claps 14,0.06518383936750755,Clapping
+1663,ADQ007,Applause,Clapping for Final,Claps 14,0.12491565456121535,Clapping
+1664,ADQ008,Applause,Clapping for Final,Claps 14,0.09113931174191921,Clapping
+1665,ADQ009,Applause,Clapping for Final,Claps 14,0.14897668672770795,Clapping
+1666,ADQ010,Applause,Clapping for Final,Claps 14,0.02443565866025942,Clapping
+1667,ADQ011,Applause,Clapping for Final,Claps 14,0.09332490312315998,Clapping
+1668,ADQ012,Applause,Clapping for Final,Claps 14,0.1131411204555452,Clapping
+1669,ADQ013,Applause,Clapping for Final,Claps 14,-0.0029153557805347585,Clapping
+1670,ADQ015,Applause,Clapping for Final,Claps 14,0.06742286490833001,Clapping
+1671,ADQ016,Applause,Clapping for Final,Claps 14,0.09128166541856529,Clapping
+1672,ADQ017,Applause,Clapping for Final,Claps 14,0.02178047729560001,Clapping
+1673,ADQ018,Applause,Clapping for Final,Claps 14,0.03493561533623426,Clapping
+1674,ADQ019,Applause,Clapping for Final,Claps 14,0.02600035645896765,Clapping
+1675,ADQ020,Applause,Clapping for Final,Claps 14,0.1279448387489049,Clapping
+1676,ADQ023,Applause,Clapping for Final,Claps 14,0.07011269558888523,Clapping
+1677,ADQ024,Applause,Clapping for Final,Claps 14,0.08222341286742794,Clapping
+1678,ADQ025,Applause,Clapping for Final,Claps 14,0.06286869057356793,Clapping
+1679,ADQ026,Applause,Clapping for Final,Claps 14,0.05484223996590433,Clapping
+1680,ADQ027,Applause,Clapping for Final,Claps 14,0.12022688129548446,Clapping
+1681,ADQ028,Applause,Clapping for Final,Claps 14,0.12416247261547377,Clapping
+1682,ADQ030,Applause,Clapping for Final,Claps 14,0.03320100496909321,Clapping
+1683,ADQ031,Applause,Clapping for Final,Claps 14,0.0721194710159983,Clapping
+1684,ADQ034,Applause,Clapping for Final,Claps 14,0.08800894634583702,Clapping
+1685,ADQ035,Applause,Clapping for Final,Claps 14,0.04832045575199682,Clapping
+1686,ADQ036,Applause,Clapping for Final,Claps 14,0.06664891924316384,Clapping
+1687,ADQ037,Applause,Clapping for Final,Claps 14,0.12301989730832032,Clapping
+1688,ADQ038,Applause,Clapping for Final,Claps 14,0.11412557890750598,Clapping
+1689,ADQ040,Applause,Clapping for Final,Claps 14,0.10503898021606754,Clapping
+1690,ADQ041,Applause,Clapping for Final,Claps 14,0.07132038850580867,Clapping
+1691,ADQ042,Applause,Clapping for Final,Claps 14,0.05739993901195955,Clapping
+1692,ADQ043,Applause,Clapping for Final,Claps 14,0.13275423363725217,Clapping
+1693,ADQ044,Applause,Clapping for Final,Claps 14,0.12441580137688021,Clapping
+1694,ADQ046,Applause,Clapping for Final,Claps 14,0.08212223999856519,Clapping
+1695,ADQ047,Applause,Clapping for Final,Claps 14,0.005969590382637282,Clapping
+1696,ADQ048,Applause,Clapping for Final,Claps 14,0.09469697587496008,Clapping
+1697,ADQ050,Applause,Clapping for Final,Claps 14,0.08338092988171264,Clapping
+1698,ADQ051,Applause,Clapping for Final,Claps 14,0.14614749879579347,Clapping
+1699,ADQ052,Applause,Clapping for Final,Claps 14,0.10848602436510515,Clapping
+1700,ADQ053,Applause,Clapping for Final,Claps 14,0.06053950473743846,Clapping
+1701,ADQ054,Applause,Clapping for Final,Claps 14,0.07215034315676098,Clapping
+1702,ADQ057,Applause,Clapping for Final,Claps 14,0.06941680413183797,Clapping
+1703,ADQ059,Applause,Clapping for Final,Claps 14,0.12645620076357236,Clapping
+1704,ADQ060,Applause,Clapping for Final,Claps 14,0.11126771774108615,Clapping
+1705,ADQ061,Applause,Clapping for Final,Claps 14,0.0836014132559199,Clapping
+1706,ADQ062,Applause,Clapping for Final,Claps 14,0.059012372603237925,Clapping
+1707,ADQ063,Applause,Clapping for Final,Claps 14,0.12505222337229738,Clapping
+1708,ADQ064,Applause,Clapping for Final,Claps 14,0.11745026201024637,Clapping
+1709,ADR067,Applause,Clapping for Final,Claps 14,0.04701894152377011,Clapping
+1710,ADR068,Applause,Clapping for Final,Claps 14,0.0650131174634033,Clapping
+1711,ADR069,Applause,Clapping for Final,Claps 14,0.10264693876843993,Clapping
+1712,ADR070,Applause,Clapping for Final,Claps 14,0.1005789212916752,Clapping
+1713,ADR071,Applause,Clapping for Final,Claps 14,0.0839812249305963,Clapping
+1714,AEQ079,Applause,Clapping for Final,Claps 14,0.11302614585866887,Clapping
+1715,AEQ081,Applause,Clapping for Final,Claps 14,0.09163055135525099,Clapping
+1716,AEQ082,Applause,Clapping for Final,Claps 14,0.11169892147529098,Clapping
+1717,AEQ085,Applause,Clapping for Final,Claps 14,3.851750399444561e-05,Clapping
+1718,AEQ086,Applause,Clapping for Final,Claps 14,-0.005287219060185256,Clapping
+1719,AEQ087,Applause,Clapping for Final,Claps 14,0.08226573556914275,Clapping
+1720,AEQ088,Applause,Clapping for Final,Claps 14,0.039872313924556896,Clapping
+1721,AEQ089,Applause,Clapping for Final,Claps 14,0.12847617942444253,Clapping
+1722,AER090,Applause,Clapping for Final,Claps 14,0.037653019551075764,Clapping
+1723,ADQ001,Applause,Clapping for Final,Claps 14,0.11426003788766595,Clapping
+1724,ADQ005,Survey,Survey for Folk,Survey 4,-0.014815599113183078,Survey
+1725,ADQ006,Survey,Survey for Folk,Survey 4,0.062643863873016,Survey
+1726,ADQ007,Survey,Survey for Folk,Survey 4,0.030836008144571422,Survey
+1727,ADQ008,Survey,Survey for Folk,Survey 4,0.028435038407903915,Survey
+1728,ADQ009,Survey,Survey for Folk,Survey 4,-0.0067796819076554075,Survey
+1729,ADQ012,Survey,Survey for Folk,Survey 4,0.017439837875430783,Survey
+1730,ADQ013,Survey,Survey for Folk,Survey 4,-0.003828064380953386,Survey
+1731,ADQ016,Survey,Survey for Folk,Survey 4,0.03887435621044878,Survey
+1732,ADQ018,Survey,Survey for Folk,Survey 4,0.027525965089910908,Survey
+1733,ADQ019,Survey,Survey for Folk,Survey 4,0.0622840886032525,Survey
+1734,ADQ023,Survey,Survey for Folk,Survey 4,0.02948032263321955,Survey
+1735,ADQ024,Survey,Survey for Folk,Survey 4,0.015015239773160164,Survey
+1736,ADQ026,Survey,Survey for Folk,Survey 4,0.040040651942026384,Survey
+1737,ADQ027,Survey,Survey for Folk,Survey 4,-0.0023150088636966133,Survey
+1738,ADQ028,Survey,Survey for Folk,Survey 4,0.024898348416146507,Survey
+1739,ADQ030,Survey,Survey for Folk,Survey 4,0.044977043477028994,Survey
+1740,ADQ031,Survey,Survey for Folk,Survey 4,0.013176462167584273,Survey
+1741,ADQ035,Survey,Survey for Folk,Survey 4,0.029291563661678816,Survey
+1742,ADQ036,Survey,Survey for Folk,Survey 4,0.024897393035855066,Survey
+1743,ADQ037,Survey,Survey for Folk,Survey 4,0.00038326161378074555,Survey
+1744,ADQ038,Survey,Survey for Folk,Survey 4,-0.02170108578691954,Survey
+1745,ADQ041,Survey,Survey for Folk,Survey 4,0.058953024186039205,Survey
+1746,ADQ043,Survey,Survey for Folk,Survey 4,-0.016718377096557935,Survey
+1747,ADQ046,Survey,Survey for Folk,Survey 4,0.052789244097758856,Survey
+1748,ADQ047,Survey,Survey for Folk,Survey 4,0.06835116206454409,Survey
+1749,ADQ048,Survey,Survey for Folk,Survey 4,0.008102695887085318,Survey
+1750,ADQ051,Survey,Survey for Folk,Survey 4,-0.00454160253367949,Survey
+1751,ADQ052,Survey,Survey for Folk,Survey 4,0.008934034387607238,Survey
+1752,ADQ053,Survey,Survey for Folk,Survey 4,0.015082774556916432,Survey
+1753,ADQ059,Survey,Survey for Folk,Survey 4,-0.022612468150804883,Survey
+1754,ADQ060,Survey,Survey for Folk,Survey 4,0.043699119484812886,Survey
+1755,ADQ062,Survey,Survey for Folk,Survey 4,0.061419618309135844,Survey
+1756,ADQ063,Survey,Survey for Folk,Survey 4,0.013736508243650419,Survey
+1757,ADQ064,Survey,Survey for Folk,Survey 4,0.03144376846171384,Survey
+1758,ADR067,Survey,Survey for Folk,Survey 4,0.050852015833312794,Survey
+1759,ADR068,Survey,Survey for Folk,Survey 4,0.011440429221717615,Survey
+1760,ADR069,Survey,Survey for Folk,Survey 4,0.002296790416652448,Survey
+1761,ADR070,Survey,Survey for Folk,Survey 4,0.0006009427534894733,Survey
+1762,ADR071,Survey,Survey for Folk,Survey 4,0.05661895927285044,Survey
+1763,AEQ079,Survey,Survey for Folk,Survey 4,0.030074139984587984,Survey
+1764,AEQ081,Survey,Survey for Folk,Survey 4,0.04900230099697072,Survey
+1765,AEQ082,Survey,Survey for Folk,Survey 4,0.0455842169405438,Survey
+1766,AEQ086,Survey,Survey for Folk,Survey 4,0.04554984744105107,Survey
+1767,AEQ087,Survey,Survey for Folk,Survey 4,0.03233290024453177,Survey
+1768,AEQ089,Survey,Survey for Folk,Survey 4,0.02921149643509339,Survey
+1769,AER090,Survey,Survey for Folk,Survey 4,0.02000338921055086,Survey
+1770,ADQ001,Survey,Survey for Folk,Survey 4,0.0624993726056185,Survey
