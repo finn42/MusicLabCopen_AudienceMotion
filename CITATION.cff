@@ -7,4 +7,10 @@ authors:
 title: "Audience Motion MusicLab Copenhagen"
 version: 1.0.1
 identifiers:
+<<<<<<< HEAD
 date-released: 2025-06-10
+=======
+    - type: doi
+    value: 10.5281/zenodo.15631560 
+date-released: 2025-06-10
+>>>>>>> b1ea3f1 (DOI committed)
