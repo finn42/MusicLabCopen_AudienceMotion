@@ -5,8 +5,8 @@ authors:
     given-names: Finn
     orcid:
 title: "Audience Motion MusicLab Copenhagen"
-version: 1.0.0
+version: 1.0.1
 identifiers:
   - type: dio
     value: 
-date-released: 2025-06-07
+date-released: 2025-06-10
