@@ -1,4 +1,4 @@
 ,Contrast,A,B,Paired,Parametric,T,dof,alternative,p-unc,p-corr,p-adjust,BF10,eta-square
-0,Social_Cat,Family,Friend,False,True,2.87698,397.48458,two-sided,0.00423,0.01269,bonf,4.392,0.00974
-1,Social_Cat,Family,Stranger,False,True,4.866,276.03071,two-sided,0.0,1e-05,bonf,8067.508,0.02569
-2,Social_Cat,Friend,Stranger,False,True,3.50607,1286.10315,two-sided,0.00047,0.00141,bonf,15.8,0.00321
+0,Social_Cat,Family,Friend,False,True,2.8769,397.48595,two-sided,0.00423,0.0127,bonf,4.391,0.00974
+1,Social_Cat,Family,Stranger,False,True,4.86649,276.03084,two-sided,0.0,1e-05,bonf,8086.565,0.02569
+2,Social_Cat,Friend,Stranger,False,True,3.50726,1286.10424,two-sided,0.00047,0.00141,bonf,15.866,0.00321

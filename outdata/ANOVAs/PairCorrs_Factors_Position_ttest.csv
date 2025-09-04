@@ -1,7 +1,7 @@
 ,Contrast,A,B,Paired,Parametric,T,dof,alternative,p-unc,p-corr,p-adjust,BF10,eta-square
-0,Position,Adjacent,Far,False,True,6.81682,1199.59248,two-sided,0.0,0.0,bonf,4.07e+08,0.01534
-1,Position,Adjacent,In front,False,True,5.92263,1423.63568,two-sided,0.0,0.0,bonf,1.476e+06,0.01332
-2,Position,Adjacent,Near,False,True,6.55034,1182.69886,two-sided,0.0,0.0,bonf,6.986e+07,0.01417
-3,Position,Far,In front,False,True,-1.05306,6515.53677,two-sided,0.29235,1.0,bonf,0.043,0.00013
-4,Position,Far,Near,False,True,-0.60257,12563.25542,two-sided,0.5468,1.0,bonf,0.024,3e-05
-5,Position,In front,Near,False,True,0.55907,6379.18035,two-sided,0.57613,1.0,bonf,0.029,4e-05
+0,Position,Adjacent,Far,False,True,6.81801,1199.59608,two-sided,0.0,0.0,bonf,4.102e+08,0.01535
+1,Position,Adjacent,In front,False,True,5.92398,1423.656,two-sided,0.0,0.0,bonf,1.488e+06,0.01333
+2,Position,Adjacent,Near,False,True,6.55158,1182.70644,two-sided,0.0,0.0,bonf,7.043e+07,0.01417
+3,Position,Far,In front,False,True,-1.05262,6515.45962,two-sided,0.29255,1.0,bonf,0.043,0.00013
+4,Position,Far,Near,False,True,-0.60245,12563.26742,two-sided,0.54689,1.0,bonf,0.024,3e-05
+5,Position,In front,Near,False,True,0.55874,6379.14934,two-sided,0.57636,1.0,bonf,0.029,4e-05

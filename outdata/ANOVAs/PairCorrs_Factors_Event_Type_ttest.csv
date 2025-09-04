@@ -1,7 +1,7 @@
 ,Contrast,A,B,Paired,Parametric,T,dof,alternative,p-unc,p-corr,p-adjust,BF10,eta-square
-0,Event_Type,Applause,Music,False,True,32.60888,1273.12593,two-sided,0.0,0.0,bonf,1.272e+219,0.446
-1,Event_Type,Applause,Speech,False,True,24.6832,1891.52485,two-sided,0.0,0.0,bonf,3.15e+121,0.17751
-2,Event_Type,Applause,Survey,False,True,17.33948,2377.33221,two-sided,0.0,0.0,bonf,7.553e+60,0.0923
-3,Event_Type,Music,Speech,False,True,-9.7279,3336.96887,two-sided,0.0,0.0,bonf,6.61e+18,0.01928
-4,Event_Type,Music,Survey,False,True,-16.45362,2300.34615,two-sided,0.0,0.0,bonf,3.037e+56,0.08616
-5,Event_Type,Speech,Survey,False,True,-7.56921,4101.92133,two-sided,0.0,0.0,bonf,6.973e+10,0.01226
+0,Event_Type,Applause,Music,False,True,32.60898,1273.12437,two-sided,0.0,0.0,bonf,1.276e+219,0.446
+1,Event_Type,Applause,Speech,False,True,24.68253,1891.50731,two-sided,0.0,0.0,bonf,3.105e+121,0.1775
+2,Event_Type,Applause,Survey,False,True,17.33975,2377.31788,two-sided,0.0,0.0,bonf,7.585e+60,0.0923
+3,Event_Type,Music,Speech,False,True,-9.72974,3336.96774,two-sided,0.0,0.0,bonf,6.729e+18,0.01929
+4,Event_Type,Music,Survey,False,True,-16.4535,2300.34349,two-sided,0.0,0.0,bonf,3.031e+56,0.08616
+5,Event_Type,Speech,Survey,False,True,-7.56801,4101.90546,two-sided,0.0,0.0,bonf,6.911e+10,0.01225
