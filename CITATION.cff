@@ -1,4 +1,4 @@
-cff-version: 1.0.1
+cff-version: 2.0.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Upham"
@@ -8,7 +8,7 @@ authors:
   given-names: " Fernando E."
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Audience Motion MusicLab Copenhagen"
-version: 1.0.0
-doi: 10.5281/zenodo.15631560 
-date-released: 2025-06-10
+version: 2.0.0
+doi: 10.5281/zenodo.15631559 
+date-released: 2025-09-09
 url: "https://github.com/finn42/MusicLabCopen_AudienceMotion"
