@@ -8,7 +8,7 @@ authors:
   given-names: "Fernando E."
   orcid: "https://orcid.org/0000-0001-7790-6183"
 title: "Audience Motion MusicLab Copenhagen"
-version: 2.0.0
-doi: 10.5281/zenodo.15631559 
+version: v2.0.0
+doi: 10.5281/zenodo.15631559
 date-released: 2025-09-09
 url: "https://github.com/finn42/MusicLabCopen_AudienceMotion"
