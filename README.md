@@ -1,5 +1,7 @@
 # How and When the Audience Moves
 
+[![DOI](https://zenodo.org/badge/864110773.svg)](https://doi.org/10.5281/zenodo.15631559)
+
 This repository shares extracted data features and code for analysing audience motion measurements from chest mounted accelerometers (multiple device types) during a live classical chamber music concert experiment, MusicLab Copenhagen. The notebooks report results for paper and supplementary materials. Unless specified otherwise, all supporting data is available on OSF repo for MusicLab Copenhagen (2021). 
 
 ---
